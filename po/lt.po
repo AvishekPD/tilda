@@ -1,0 +1,1166 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: tilda\n"
+"Report-Msgid-Bugs-To: sloutri@iit.edu\n"
+"POT-Creation-Date: 2020-02-08 23:45+0100\n"
+"PO-Revision-Date: 2014-06-16 09:53+0200\n"
+"Last-Translator: Algimantas Margevičius <algimantas@margevicius.lt>\n"
+"Language-Team: Lithuanian <lt@li.org>\n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-08-07 14:16+0000\n"
+"X-Generator: Poedit 1.6.5\n"
+
+#: src/menu.ui:6
+msgid "_New Tab"
+msgstr "_Nauja kortelė"
+
+#: src/menu.ui:10
+msgid "_Close Tab"
+msgstr "_Užverti kortelę"
+
+#: src/menu.ui:16
+msgid "_Copy"
+msgstr ""
+
+#: src/menu.ui:20
+msgid "_Paste"
+msgstr ""
+
+#: src/menu.ui:26
+#, fuzzy
+msgid "_Toggle Fullscreen"
+msgstr "<b>Perjungti viso ekrano veikseną</b>"
+
+#: src/menu.ui:30
+msgid "_Toggle Searchbar"
+msgstr ""
+
+#: src/menu.ui:36
+msgid "_Preferences"
+msgstr ""
+
+#: src/menu.ui:42
+msgid "_Quit"
+msgstr ""
+
+#: src/tilda.ui:69
+msgid "Close Tilda"
+msgstr "Užverti tilda"
+
+#: src/tilda.ui:72
+msgid "Open a new terminal"
+msgstr "Atverti naują terminalą"
+
+#: src/tilda.ui:75
+msgid "Open a new terminal and hide"
+msgstr "Atverti naują terminalą ir paslėpti"
+
+#: src/tilda.ui:86 src/tilda.ui:194
+msgid "Top"
+msgstr "Viršus"
+
+#: src/tilda.ui:89 src/tilda.ui:197
+msgid "Bottom"
+msgstr "Apačioje"
+
+#: src/tilda.ui:92 src/tilda.ui:200
+msgid "Left"
+msgstr "Kairėje"
+
+#: src/tilda.ui:95 src/tilda.ui:203
+msgid "Right"
+msgstr "Dešinėje"
+
+#: src/tilda.ui:98
+msgid "Hidden"
+msgstr ""
+
+#: src/tilda.ui:109
+msgid "Focus Terminal"
+msgstr ""
+
+#: src/tilda.ui:112
+#, fuzzy
+msgid "Hide Terminal"
+msgstr "Išeiti iš terminalo"
+
+#: src/tilda.ui:123
+msgid "Block Cursor"
+msgstr ""
+
+#: src/tilda.ui:126
+msgid "IBeam Cursor"
+msgstr ""
+
+#: src/tilda.ui:129
+msgid "Underline Cursor"
+msgstr ""
+
+#: src/tilda.ui:140
+msgid "Show whole tab title"
+msgstr ""
+
+#: src/tilda.ui:143
+msgid "Show first n chars of title"
+msgstr ""
+
+#: src/tilda.ui:146
+msgid "Show last n chars of title"
+msgstr ""
+
+#: src/tilda.ui:157
+msgid "Isn't displayed"
+msgstr "Nerodoma"
+
+#: src/tilda.ui:160
+msgid "Goes after initial title"
+msgstr "Po pradinės antraštės"
+
+#: src/tilda.ui:163
+msgid "Goes before initial title"
+msgstr "Prieš pradinę antraštę"
+
+#: src/tilda.ui:166
+msgid "Replace initial title"
+msgstr "Pakeisti pradinę antraštę"
+
+#: src/tilda.ui:177
+msgid "Drop to the default shell"
+msgstr "Rodyti pagrindiniame „shell“"
+
+#: src/tilda.ui:180
+msgid "Restart the command"
+msgstr "Paleisti komandą iš naujo"
+
+#: src/tilda.ui:183
+msgid "Exit the terminal"
+msgstr "Išeiti iš terminalo"
+
+#: src/tilda.ui:214 src/tilda.ui:246
+msgid "Custom"
+msgstr "Tinkintas"
+
+#: src/tilda.ui:217
+msgid "Green on Black"
+msgstr "Žalia ant juodos"
+
+#: src/tilda.ui:220
+msgid "Black on White"
+msgstr "Juoda ant balto"
+
+#: src/tilda.ui:223
+msgid "White on Black"
+msgstr "Balta ant juodos"
+
+#: src/tilda.ui:226
+msgid "Zenburn"
+msgstr "Zenburn"
+
+#: src/tilda.ui:229
+msgid "Solarized Light"
+msgstr "Išblukus spalva"
+
+#: src/tilda.ui:232
+msgid "Solarized Dark"
+msgstr "Išblukus juoda"
+
+#: src/tilda.ui:235
+msgid "Snazzy"
+msgstr ""
+
+#: src/tilda.ui:257
+msgid "On the Left"
+msgstr "Kairėje"
+
+#: src/tilda.ui:260
+msgid "On the Right"
+msgstr "Dešinėje"
+
+#: src/tilda.ui:263
+msgid "Disabled"
+msgstr "Išjungtas"
+
+#: src/tilda.ui:274 src/tilda.ui:291
+msgid "ASCII DEL"
+msgstr "ASCII DEL"
+
+#: src/tilda.ui:277 src/tilda.ui:294
+msgid "Escape sequence"
+msgstr "„Escape“ seka"
+
+#: src/tilda.ui:280 src/tilda.ui:297
+msgid "Control-H"
+msgstr "Vald-H"
+
+#: src/tilda.ui:314
+msgid "Tilda Config"
+msgstr "Tildos Konfigūracija"
+
+#: src/tilda.ui:395
+msgid "Start Tilda hidden"
+msgstr "Paleisti Tildą paslėptą"
+
+#: src/tilda.ui:409
+msgid "Always on top"
+msgstr "Visada viršuje"
+
+#: src/tilda.ui:423
+msgid "Display on all workspaces"
+msgstr "Rodyti visuose darbastaliuose"
+
+#: src/tilda.ui:437
+msgid "Do not show in taskbar"
+msgstr "Nerodyti įrankių juostoje"
+
+#: src/tilda.ui:451
+msgid "Show Notebook Border"
+msgstr "Rodyti kraštus"
+
+#: src/tilda.ui:465
+msgid "Set as Desktop window"
+msgstr ""
+
+#: src/tilda.ui:480
+#, fuzzy
+msgid "Start in fullscreen"
+msgstr "Perjungti viso ekrano veikseną"
+
+#: src/tilda.ui:509
+msgid "Non-focus Pull Up Behaviour:"
+msgstr ""
+
+#: src/tilda.ui:560
+msgid "<b>Window Display</b>"
+msgstr "<b>Lango rodymas</b>"
+
+#: src/tilda.ui:598
+msgid "Cursor Blinks"
+msgstr "Kursoriaus mirgėjimas"
+
+#: src/tilda.ui:612
+msgid "Audible Terminal Bell"
+msgstr "Girdimas Terminalo Skambutis"
+
+#: src/tilda.ui:628
+msgid "Cursor Shape: "
+msgstr ""
+
+#: src/tilda.ui:663
+msgid "<b>Terminal Display</b>"
+msgstr "<b>Terminalo rodymas</b>"
+
+#: src/tilda.ui:703
+msgid "Font:"
+msgstr "Šriftas:"
+
+#: src/tilda.ui:733
+msgid "<b>Font</b>"
+msgstr "<b>Šriftas</b>"
+
+#: src/tilda.ui:782
+msgid "Hide Tilda when mouse leaves it"
+msgstr "Pelei palikus Tilda paslėpti"
+
+#: src/tilda.ui:799
+msgid "Auto Hide Delay:"
+msgstr "Automatinio slėpimo delsa:"
+
+#: src/tilda.ui:809
+msgid "Hide when Tilda loses focus"
+msgstr "Slėpti kai Tilda praranda fokusą"
+
+#: src/tilda.ui:829
+msgid "<b>Auto Hide</b>"
+msgstr "<b>Automatinis slėpimas</b>"
+
+#: src/tilda.ui:868
+msgid "When last terminal is closed:"
+msgstr "Užvėrus paskutinį terminalą:"
+
+#: src/tilda.ui:895
+#, fuzzy
+msgid "Always prompt on exit"
+msgstr "Visada viršuje"
+
+#: src/tilda.ui:918
+msgid "<b>Program Exit</b>"
+msgstr "<b>Programos išėjimas</b>"
+
+#: src/tilda.ui:936
+msgid ""
+"<small><i><b>Note:</b> Some options require that tilda is restarted.</i></"
+"small>"
+msgstr ""
+"<small><i><b>Pastaba:</b> Kai kurios parinktys įsigalios tik iš naujo "
+"paleidus „tilda“.</i></small>"
+
+#: src/tilda.ui:953
+msgid "General"
+msgstr "Bendra"
+
+#: src/tilda.ui:998
+msgid "Word Characters:"
+msgstr "Žodžių simboliai:"
+
+#: src/tilda.ui:1026
+msgid "<b>Select by Word</b>"
+msgstr "<b>Pasirinkti pagal žodį</b>"
+
+#: src/tilda.ui:1076
+msgid "Web Browser *:"
+msgstr "Naršyklė *:"
+
+#: src/tilda.ui:1093
+msgid "<b>URL Handling</b>"
+msgstr "<b>Adresų valdyklė</b>"
+
+#: src/tilda.ui:1128
+msgid "Initial Title:"
+msgstr "Terminalo pavadinimas"
+
+#: src/tilda.ui:1150
+msgid "Title Max Length:"
+msgstr ""
+
+#: src/tilda.ui:1191
+msgid "Dynamically-set Title:"
+msgstr "Dinamiškai nustatyti pavadinimą:"
+
+#: src/tilda.ui:1203
+msgid "Title Behaviour:"
+msgstr ""
+
+#: src/tilda.ui:1236
+msgid "<b>Title</b>"
+msgstr "<b>Pavadinimas</b>"
+
+#: src/tilda.ui:1297
+msgid "Run a custom command instead of the shell"
+msgstr "Paleisti komandą vietoj Shell'o"
+
+#: src/tilda.ui:1313
+msgid "Custom Command:"
+msgstr "Komanda:"
+
+#: src/tilda.ui:1325
+msgid "When Command Exits:"
+msgstr "Kai komanda \"Exit\":"
+
+#: src/tilda.ui:1335
+msgid "Use a login shell"
+msgstr ""
+
+#: src/tilda.ui:1361
+msgid "<b>Command</b>"
+msgstr "<b>Komanda</b>"
+
+#: src/tilda.ui:1388
+msgid ""
+"* A valid command that can open a browser must be entered here. It is "
+"possible to use the name of a specific browser such as 'firefox' and 'google-"
+"chrome' or to use the generic commands 'x-www-browser' and 'xdg-open'. The "
+"best command may be different depending on the system."
+msgstr ""
+"* Čia turi būti įvesta tinkama komanda kuri gali atverti naršyklę. Galima "
+"naudoti programos pavadinimą pvz. „firefox“ ar „google-chrome“ ar tiesiog "
+"bendrines komandas „x-www-browser“ ir „xdg-open“. Kiekvienai sistemai "
+"geriausia komanda yra skirtinga."
+
+#: src/tilda.ui:1425
+msgid "Show confirmation dialog when closing tab"
+msgstr ""
+
+#: src/tilda.ui:1445
+#, fuzzy
+msgid "Close Action"
+msgstr "Užverti tilda"
+
+#: src/tilda.ui:1466
+msgid "Title and Command"
+msgstr "Pavadinimas ir komanda"
+
+#: src/tilda.ui:1510 src/tilda.ui:1688
+msgid "Percentage"
+msgstr "Procentais"
+
+#: src/tilda.ui:1534 src/tilda.ui:1700
+msgid "In Pixels"
+msgstr "Taškais"
+
+#: src/tilda.ui:1561
+msgid "<b>Height</b>"
+msgstr "<b>Aukštis</b>"
+
+#: src/tilda.ui:1597
+msgid "Monitor:"
+msgstr "Monitorius:"
+
+#: src/tilda.ui:1652
+msgid "<b>Select monitor</b>"
+msgstr "<b>Pasirinkite monitorių</b>"
+
+#: src/tilda.ui:1739
+msgid "<b>Width</b>"
+msgstr "<b>Plotis</b>"
+
+#: src/tilda.ui:1775
+msgid "Centered Horizontally"
+msgstr "Centruotas horizontaliai"
+
+#: src/tilda.ui:1793
+msgid "Y Position"
+msgstr "Y padėtis"
+
+#: src/tilda.ui:1827
+msgid "X Position"
+msgstr "X padėtis"
+
+#: src/tilda.ui:1837
+msgid "Centered Vertically"
+msgstr "Centruotas vertikaliai"
+
+#: src/tilda.ui:1865
+msgid "<b>Position</b>"
+msgstr "<b>Padėtis</b>"
+
+#: src/tilda.ui:1903
+msgid "Position of Tabs:"
+msgstr "Kortelių pozicija:"
+
+#: src/tilda.ui:1930
+msgid "Expand Tabs"
+msgstr ""
+
+#: src/tilda.ui:1944
+msgid "Show single Tab"
+msgstr ""
+
+#: src/tilda.ui:1958
+msgid "Display Title in Tooltip"
+msgstr ""
+
+#: src/tilda.ui:1981
+#, fuzzy
+msgid "<b>Tabs</b>"
+msgstr "<b>Pridėti kortelę</b>"
+
+#: src/tilda.ui:2030
+msgid "Animation Delay (usec)"
+msgstr "Animacijos delsa (ms)"
+
+#: src/tilda.ui:2042
+msgid "Animation Orientation"
+msgstr "Animacijos orientacija"
+
+#: src/tilda.ui:2080
+msgid "Animated Pulldown"
+msgstr "Animuotas nusileidimas"
+
+#: src/tilda.ui:2096
+msgid "Level of Transparency"
+msgstr "Permatomumo lygis"
+
+#: src/tilda.ui:2106
+msgid "Enable Transparency"
+msgstr "Įjungti permatomumą"
+
+#: src/tilda.ui:2129
+msgid "<b>Extras</b>"
+msgstr "<b>Papildomi</b>"
+
+#: src/tilda.ui:2148
+msgid "Appearance"
+msgstr "Išvaizda"
+
+#: src/tilda.ui:2217
+#, fuzzy
+msgid "Cursor Color"
+msgstr "Kursoriaus mirgėjimas"
+
+#: src/tilda.ui:2265
+msgid "Text Color"
+msgstr "Teksto spalva"
+
+#: src/tilda.ui:2277
+msgid "Background Color"
+msgstr "Fono spalva"
+
+#: src/tilda.ui:2289
+msgid "Built-in Schemes"
+msgstr "Esamos schemos"
+
+#: src/tilda.ui:2303
+msgid "<b>Foreground and Background Colors</b>"
+msgstr "<b>Priekinio ir galinio fono spalvos </b>"
+
+#: src/tilda.ui:2335
+msgid ""
+"<small><i><b>Note:</b> Terminal applications have these colors available to "
+"them.</i></small>"
+msgstr ""
+"<small><i><b>Pastaba:</b> Terminalinėms programoms yra prieinamos šios "
+"spalvos.</i></small>"
+
+#: src/tilda.ui:2378
+msgid "Choose Color 14"
+msgstr ""
+
+#: src/tilda.ui:2391
+msgid "Choose Color 13"
+msgstr ""
+
+#: src/tilda.ui:2404
+msgid "Choose Color 15"
+msgstr ""
+
+#: src/tilda.ui:2417
+msgid "Choose Color 12"
+msgstr ""
+
+#: src/tilda.ui:2430
+msgid "Choose Color 10"
+msgstr ""
+
+#: src/tilda.ui:2443
+msgid "Choose Color 11"
+msgstr ""
+
+#: src/tilda.ui:2456
+msgid "Choose Color 9"
+msgstr ""
+
+#: src/tilda.ui:2469
+msgid "Choose Color 7"
+msgstr ""
+
+#: src/tilda.ui:2482
+msgid "Choose Color 6"
+msgstr ""
+
+#: src/tilda.ui:2495
+msgid "Choose Color 5"
+msgstr ""
+
+#: src/tilda.ui:2508
+msgid "Choose Color 4"
+msgstr ""
+
+#: src/tilda.ui:2521
+msgid "Choose Color 3"
+msgstr ""
+
+#: src/tilda.ui:2534
+msgid "Choose Color 2"
+msgstr ""
+
+#: src/tilda.ui:2547
+msgid "Choose Color 1"
+msgstr ""
+
+#: src/tilda.ui:2560
+msgid "Choose Color 0"
+msgstr ""
+
+#: src/tilda.ui:2574
+msgid "Choose Color 8"
+msgstr ""
+
+#: src/tilda.ui:2591
+msgid "Built-in schemes:"
+msgstr "Esamos schemos:"
+
+#: src/tilda.ui:2606
+msgid "Color palette:"
+msgstr "Spalvų paletė:"
+
+#: src/tilda.ui:2622
+msgid "<b>Palette</b>"
+msgstr "<b>Paletė</b>"
+
+#: src/tilda.ui:2641
+msgid "Colors"
+msgstr "Spalvos"
+
+#: src/tilda.ui:2698
+msgid "Scrollbar is:"
+msgstr "Slinkimo juosta yra:"
+
+#: src/tilda.ui:2707
+#, fuzzy
+msgid "Limit scrollback to:"
+msgstr "Slinkimas:"
+
+#: src/tilda.ui:2711
+msgid "Unselect for unlimited scrollback."
+msgstr ""
+
+#: src/tilda.ui:2723
+msgid "Scroll on Output"
+msgstr "Slinkti išvestyje"
+
+#: src/tilda.ui:2737
+msgid "Scroll on Keystroke"
+msgstr "Slinkti paspaudus klavišą"
+
+#: src/tilda.ui:2759
+msgid "0"
+msgstr ""
+
+#: src/tilda.ui:2771
+msgid "lines"
+msgstr "eilučių"
+
+#: src/tilda.ui:2797
+msgid "<b>Scrolling</b>"
+msgstr "<b>Slinkimas</b>"
+
+#: src/tilda.ui:2818
+msgid "Scrolling"
+msgstr "Slinkimas"
+
+#: src/tilda.ui:2857
+msgid ""
+"<small><i><b>Note:</b> These options may cause some applications to behave "
+"incorrectly.  They are only here to allow you to work around certain "
+"applications and operating systems that expect different terminal behavior.</"
+"i></small>"
+msgstr ""
+"<small><i><b>Pastaba:</b> Dėl šių nuostatų kai kurios programos gali elgtis "
+"nekorektiškai. Jos čia yra tik dėl to, kad būtų galima apeiti kai kurių "
+"programų ir operacinių sistemų, kurios tikisi kitokio terminalo veikimo, "
+"elgseną.</i></small>"
+
+#: src/tilda.ui:2873
+msgid "_Backspace key generates:"
+msgstr "„_Backspace“ klavišas siunčia:"
+
+#: src/tilda.ui:2887
+msgid "_Delete key generates:"
+msgstr "„_Delete“ klavišas siunčia:"
+
+#: src/tilda.ui:2899
+msgid "_Reset Compatibility Options to Defaults"
+msgstr "_Atstatyti suderinamumo nustatymus į numatytuosius"
+
+#: src/tilda.ui:2953
+msgid "<b>Compatibility</b>"
+msgstr "<b>Suderinamumas</b>"
+
+#: src/tilda.ui:2972
+msgid "Compatibility"
+msgstr "Suderinamumas"
+
+#: src/tilda.ui:3024
+#, fuzzy
+msgid "<b>Keybindings</b>"
+msgstr "Klavišų susaistymai"
+
+#: src/tilda.ui:3043
+msgid "Keybindings"
+msgstr "Klavišų susaistymai"
+
+#: src/configsys.c:384
+msgid "Unable to sync the config file to disk\n"
+msgstr "Negalima sinchronizuoti konfiguravimo failo\n"
+
+#: src/configsys.c:394
+msgid "Unable to close the config file\n"
+msgstr "Negalima užverti konfigūravimo failo\n"
+
+#: src/configsys.c:407
+#, c-format
+msgid "Unable to write the config file to %s\n"
+msgstr "Negalima įrašyti į konfigūravimo failą %s\n"
+
+#: src/tilda.c:239
+#, c-format
+msgid "Unable to run command: `%s'\n"
+msgstr "Negalima paleisit komandos: `%s'\n"
+
+#: src/tilda.c:284 src/tilda.c:459
+#, c-format
+msgid "Unable to open lock directory: %s\n"
+msgstr "Negalima atidaryti užrakinto katalogo: %s\n"
+
+#: src/tilda.c:396
+#, c-format
+msgid "Creating directory:'%s'\n"
+msgstr "Kuriamas aplankas: „%s“\n"
+
+#: src/tilda.c:555
+msgid ""
+"Found style.css in the user config directory, applying user css style.\n"
+msgstr ""
+"Naudotojo konfigūracijos aplanke rasta „style.css“, pritaikomas naudotojo "
+"stilius.\n"
+
+#: src/tilda.c:610
+msgid "Migrating old config path to XDG folders\n"
+msgstr "Perkeliamas senas konfigūracijos kelias į XDG aplankus\n"
+
+#: src/tilda.c:673
+#, c-format
+msgid "Specified config file '%s' does not exist. Reverting to default path.\n"
+msgstr ""
+
+#: src/tilda.c:766 src/tilda-keybinding.c:409
+msgid ""
+"The keybinding you chose for \"Pull Down Terminal\" is invalid. Please "
+"choose another."
+msgstr ""
+"Jūsų pasirinktas klavišų susiejimas skirtas „Išskleisti terminalą“ yra "
+"netinkamas. Pasirinkite kitą."
+
+#: src/tilda-keybinding.c:115
+#, fuzzy
+msgid "Action"
+msgstr "Užverti tilda"
+
+#: src/tilda-keybinding.c:121
+msgid "Shortcut"
+msgstr ""
+
+#: src/tilda-keybinding.c:306
+msgid "Enter keyboard shortcut"
+msgstr "Įveskite klaviatūros greitąjį klavišą"
+
+#: src/tilda-keybinding.c:417
+#, fuzzy, c-format
+msgid "The keybinding you chose for \"%s\" is invalid. Please choose another."
+msgstr ""
+"Jūsų pasirinktas klavišų susiejimas skirtas „Įklijuoti“ yra netinkamas. "
+"Pasirinkite kitą."
+
+#: src/tilda_terminal.c:398
+#, fuzzy, c-format
+msgid "Problem reading link %s: %s\n"
+msgstr "Klaida analizuojant komandą: %s\n"
+
+#: src/tilda_terminal.c:421
+#, c-format
+msgid "Unable to launch default shell: %s\n"
+msgstr "Negalima paleisti numatytosios konsolės: %s\n"
+
+#: src/tilda_terminal.c:423
+#, c-format
+msgid "Unable to launch custom command: %s\n"
+msgstr "Nepavyko paleisti komandos: %s\n"
+
+#: src/tilda_terminal.c:424
+#, fuzzy, c-format
+msgid "Launching custom command failed with error: %s\n"
+msgstr "Paleisti komandą vietoj Shell'o"
+
+#: src/tilda_terminal.c:425 src/tilda_terminal.c:459
+msgid "Launching default shell instead\n"
+msgstr "Paleisti numatytąją konsolę vietoj\n"
+
+#: src/tilda_terminal.c:458
+#, c-format
+msgid "Problem parsing custom command: %s\n"
+msgstr "Klaida analizuojant komandą: %s\n"
+
+#: src/tilda_terminal.c:976
+#, c-format
+msgid "Failed to launch the web browser. The command was `%s'\n"
+msgstr "Nepavyko paleisti interneto naršyklės. Komanda buvo `%s'\n"
+
+#: src/tilda_terminal.c:1026
+msgid "Untitled"
+msgstr "Be pavadinimo"
+
+#: src/tilda_terminal.c:1044
+msgid "Bad value for \"d_set_title\" in config file\n"
+msgstr "Bloga reikšmė \"d_set_title\" konfigūracijos faile\n"
+
+#: src/tilda_window.c:109
+msgid "Are you sure you want to close this tab?"
+msgstr ""
+
+#: src/tilda_window.c:156
+msgid "You have a bad tab_pos in your configuration file\n"
+msgstr "Jūs turite blogai nustatytą tab_pos konfigūracijos faile\n"
+
+#: src/tilda_window.c:811
+#, c-format
+msgid "Unable to set tilda's icon: %s\n"
+msgstr "Negalima nustatyti Tildos piktogramos: %s\n"
+
+#: src/tilda_window.c:1105
+msgid "Out of memory, cannot create tab\n"
+msgstr "Trūksta atminties, negalima sukurti kortelės\n"
+
+#: src/tilda_window.c:1225
+msgid "Are you sure you want to Quit?"
+msgstr ""
+
+#: src/wizard.c:138
+#, c-format
+msgid "Tilda %d Config"
+msgstr "Tildos %d konfigūracija"
+
+#: src/wizard.c:561
+msgid "Invalid Cursor Type, resetting to default\n"
+msgstr ""
+
+#: src/wizard.c:579
+msgid "Invalid non-focus pull up behaviour, ignoring\n"
+msgstr ""
+
+#: src/wizard.c:1046
+msgid "Invalid tab position setting, ignoring\n"
+msgstr "Neteisinga kortelės pozicijos nuostata, ignoruojama\n"
+
+#~ msgid "Allow Bold Text"
+#~ msgstr "Leisti paryškintą tekstą"
+
+#~ msgid "Set the background color"
+#~ msgstr "Nustatyti fono spalvą"
+
+#~ msgid "Run a command at startup"
+#~ msgstr "Paleisti komandą pasileidus"
+
+#~ msgid "Set the font to the following string"
+#~ msgstr "Nustatyti šriftą sekančiai eilutei"
+
+#, fuzzy
+#~ msgid "Configuration file"
+#~ msgstr "Rodyti konfiguravimo vediklį"
+
+#~ msgid "Scrollback Lines"
+#~ msgstr "Slinkimo eilutės"
+
+#~ msgid "Use Scrollbar"
+#~ msgstr "Naudoti slankjuostę"
+
+#~ msgid "Print the version, then exit"
+#~ msgstr "Parodyti versiją, tada išeiti"
+
+#~ msgid "Set Initial Working Directory"
+#~ msgstr "Nustatyti pradinį darbo katalogą"
+
+#~ msgid "Opaqueness: 0-100%"
+#~ msgstr "Neskaidrumas: 0-100%"
+
+#~ msgid "Show Configuration Wizard"
+#~ msgstr "Rodyti konfiguravimo vediklį"
+
+#~ msgid ""
+#~ "Error parsing command-line options. Try \"tilda --help\"\n"
+#~ "to see all possible options.\n"
+#~ "\n"
+#~ "Error message: %s\n"
+#~ msgstr ""
+#~ "Klaida komandinės eilutės nuostatose. Pabandykite \"tilda --help\"\n"
+#~ "kad pamatytumėte visas galimas nuostatas.\n"
+#~ "\n"
+#~ "Klaidos žinutė: %s\n"
+
+#, fuzzy
+#~ msgid ""
+#~ "Error parsing Glib and GTK specific command-line options. Try \"tilda --"
+#~ "help-all\"\n"
+#~ "to see all possible options.\n"
+#~ "\n"
+#~ "Error message: %s\n"
+#~ msgstr ""
+#~ "Klaida komandinės eilutės nuostatose. Pabandykite \"tilda --help\"\n"
+#~ "kad pamatytumėte visas galimas nuostatas.\n"
+#~ "\n"
+#~ "Klaidos žinutė: %s\n"
+
+#~ msgid "Tango"
+#~ msgstr "Tango"
+
+#~ msgid "Linux console"
+#~ msgstr "Linux konsolė"
+
+#~ msgid "XTerm"
+#~ msgstr "XTerm"
+
+#~ msgid "Rxvt"
+#~ msgstr "Rxvt"
+
+#~ msgid "Enable Antialiasing"
+#~ msgstr "Įgalinti glodinimą"
+
+#~ msgid "Use Image for Background"
+#~ msgstr "Fonui naudoti paveikslėlį"
+
+#~ msgid "Scroll Background"
+#~ msgstr "Slinkti foną"
+
+#~ msgid "Use Antialiased Fonts"
+#~ msgstr "Naudoti šriftus su taškine korekcija"
+
+#~ msgid "Set Background Image"
+#~ msgstr "Nustatyti fono paveikslėlį"
+
+#~ msgid "Enable Double Buffering"
+#~ msgstr "Įgalinti dvigubą buferį"
+
+#~ msgid "Limit maximum length of tab title:"
+#~ msgstr "Riboti didžiausią leidžiamą kortelės pavadinimo ilgį:"
+
+#~ msgid "    "
+#~ msgstr "    "
+
+#~ msgid " "
+#~ msgstr " "
+
+#~ msgid "<b>Paste</b>"
+#~ msgstr "<b>Įklijuoti</b>"
+
+#~ msgid "<b>Go To Next Tab</b>"
+#~ msgstr "<b>Eiti į sekančią kortelę</b>"
+
+#~ msgid "<b>Quit</b>"
+#~ msgstr "<b>Išeiti</b>"
+
+#~ msgid "<b>Go To Tab 10</b>"
+#~ msgstr "<b>Eiti į kortelę 10</b>"
+
+#~ msgid "<b>Go To Tab 5</b>"
+#~ msgstr "<b>Eiti į kortelę 5</b>"
+
+#~ msgid "<b>Go To Tab 4</b>"
+#~ msgstr "<b>Eiti į kortelę 4</b>"
+
+#~ msgid "<b>Go To Tab 3</b>"
+#~ msgstr "<b>Eiti į kortelę 3</b>"
+
+#~ msgid "<b>Go To Tab 2</b>"
+#~ msgstr "<b>Eiti į kortelę 2</b>"
+
+#~ msgid "<b>Go To Tab 1</b>"
+#~ msgstr "<b>Eiti į kortelę 1</b>"
+
+#~ msgid "<b>Go To Previous Tab</b>"
+#~ msgstr "<b>Eiti į anstesnę kortelę</b>"
+
+#~ msgid "<b>Close Tab</b>"
+#~ msgstr "<b>Užverti kortelę</b>"
+
+#~ msgid "<b>Copy</b>"
+#~ msgstr "<b>Kopijuoti</b>"
+
+#~ msgid "<b>Pull Down Terminal</b>"
+#~ msgstr "<b>Išskleisti terminalą</b>"
+
+#~ msgid "<b>Go To Tab 6</b>"
+#~ msgstr "<b>Eiti į kortelę 6</b>"
+
+#~ msgid "<b>Go To Tab 7</b>"
+#~ msgstr "<b>Eiti į kortelę 7</b>"
+
+#~ msgid "<b>Go To Tab 8</b>"
+#~ msgstr "<b>Eiti į kortelę 8</b>"
+
+#~ msgid "<b>Go To Tab 9</b>"
+#~ msgstr "<b>Eiti į kortelę 9</b>"
+
+#~ msgid "<b>Move Tab Left</b>"
+#~ msgstr "<b>Perkelti kortelę kairėn</b>"
+
+#~ msgid "<b>Move Tab Right</b>"
+#~ msgstr "<b>Perkelti kortelę dešinėn</b>"
+
+#~ msgid "Problem when opening config file\n"
+#~ msgstr "Klaida atveriant konfigūracijos failą\n"
+
+#~ msgid "An unexpected error occured while parsing the config file\n"
+#~ msgstr "Apdorojant konfigūracijos failą įvyko nežinoma klaida\n"
+
+#~ msgid ""
+#~ "The keybinding you chose for \"Add Tab\" is invalid. Please choose "
+#~ "another."
+#~ msgstr ""
+#~ "Jūsų pasirinktas klavišų susiejimas skirtas „Pridėti kortelę“ yra "
+#~ "netinkamas. Pasirinkite kitą."
+
+#~ msgid ""
+#~ "The keybinding you chose for \"Close Tab\" is invalid. Please choose "
+#~ "another."
+#~ msgstr ""
+#~ "Jūsų pasirinktas klavišų susiejimas skirtas „Užverti kortelę“ yra "
+#~ "netinkamas. Pasirinkite kitą."
+
+#~ msgid ""
+#~ "The keybinding you chose for \"Next Tab\" is invalid. Please choose "
+#~ "another."
+#~ msgstr ""
+#~ "Jūsų pasirinktas klavišų susiejimas skirtas „Sekanti kortelė“ yra "
+#~ "netinkamas. Pasirinkite kitą."
+
+#~ msgid ""
+#~ "The keybinding you chose for \"Previous Tab\" is invalid. Please choose "
+#~ "another."
+#~ msgstr ""
+#~ "Jūsų pasirinktas klavišų susiejimas skirtas „Ankstesnė kortelė“ yra "
+#~ "netinkamas. Pasirinkite kitą."
+
+#~ msgid ""
+#~ "The keybinding you chose for \"Move Tab to Left\" is invalid. Please "
+#~ "choose another."
+#~ msgstr ""
+#~ "Jūsų pasirinktas klavišų susiejimas skirtas „Perkelti kortelę į kairę“ "
+#~ "yra netinkamas. Pasirinkite kitą."
+
+#~ msgid ""
+#~ "The keybinding you chose for \"Move Tab to Right\" is invalid. Please "
+#~ "choose another."
+#~ msgstr ""
+#~ "Jūsų pasirinktas klavišų susiejimas skirtas „Perkelti kortelę į dešinę“ "
+#~ "yra netinkamas. Pasirinkite kitą."
+
+#~ msgid ""
+#~ "The keybinding you chose for \"Copy\" is invalid. Please choose another."
+#~ msgstr ""
+#~ "Jūsų pasirinktas klavišų susiejimas skirtas „Kopijuoti“ yra netinkamas. "
+#~ "Pasirinkite kitą."
+
+#~ msgid ""
+#~ "The keybinding you chose for \"Quit\" is invalid. Please choose another."
+#~ msgstr ""
+#~ "Jūsų pasirinktas klavišų susiejimas skirtas „Išeiti“ yra netinkamas. "
+#~ "Pasirinkite kitą."
+
+#~ msgid ""
+#~ "The keybinding you chose for \"Go To Tab 1\" is invalid. Please choose "
+#~ "another."
+#~ msgstr ""
+#~ "Jūsų pasirinktas klavišo susiejimas skirtas „Eiti į kortelę 1“ yra "
+#~ "netinkamass. Pasirinkite kitą."
+
+#~ msgid ""
+#~ "The keybinding you chose for \"Go To Tab 2\" is invalid. Please choose "
+#~ "another."
+#~ msgstr ""
+#~ "Jūsų pasirinktas klavišo susiejimas skirtas „Eiti į kortelę 2“ yra "
+#~ "netinkamass. Pasirinkite kitą."
+
+#~ msgid ""
+#~ "The keybinding you chose for \"Go To Tab 3\" is invalid. Please choose "
+#~ "another."
+#~ msgstr ""
+#~ "Jūsų pasirinktas klavišo susiejimas skirtas „Eiti į kortelę 3“ yra "
+#~ "netinkamass. Pasirinkite kitą."
+
+#~ msgid ""
+#~ "The keybinding you chose for \"Go To Tab 4\" is invalid. Please choose "
+#~ "another."
+#~ msgstr ""
+#~ "Jūsų pasirinktas klavišo susiejimas skirtas „Eiti į kortelę 4“ yra "
+#~ "netinkamass. Pasirinkite kitą."
+
+#~ msgid ""
+#~ "The keybinding you chose for \"Go To Tab 5\" is invalid. Please choose "
+#~ "another."
+#~ msgstr ""
+#~ "Jūsų pasirinktas klavišo susiejimas skirtas „Eiti į kortelę 5“ yra "
+#~ "netinkamass. Pasirinkite kitą."
+
+#~ msgid ""
+#~ "The keybinding you chose for \"Go To Tab 6\" is invalid. Please choose "
+#~ "another."
+#~ msgstr ""
+#~ "Jūsų pasirinktas klavišo susiejimas skirtas „Eiti į kortelę 6“ yra "
+#~ "netinkamass. Pasirinkite kitą."
+
+#~ msgid ""
+#~ "The keybinding you chose for \"Go To Tab 7\" is invalid. Please choose "
+#~ "another."
+#~ msgstr ""
+#~ "Jūsų pasirinktas klavišo susiejimas skirtas „Eiti į kortelę 7“ yra "
+#~ "netinkamass. Pasirinkite kitą."
+
+#~ msgid ""
+#~ "The keybinding you chose for \"Go To Tab 8\" is invalid. Please choose "
+#~ "another."
+#~ msgstr ""
+#~ "Jūsų pasirinktas klavišo susiejimas skirtas „Eiti į kortelę 8“ yra "
+#~ "netinkamass. Pasirinkite kitą."
+
+#~ msgid ""
+#~ "The keybinding you chose for \"Go To Tab 9\" is invalid. Please choose "
+#~ "another."
+#~ msgstr ""
+#~ "Jūsų pasirinktas klavišo susiejimas skirtas „Eiti į kortelę 9“ yra "
+#~ "netinkamass. Pasirinkite kitą."
+
+#~ msgid ""
+#~ "The keybinding you chose for \"Go To Tab 10\" is invalid. Please choose "
+#~ "another."
+#~ msgstr ""
+#~ "Jūsų pasirinktas klavišo susiejimas skirtas „Eiti į kortelę 10“ yra "
+#~ "netinkamass. Pasirinkite kitą."
+
+#~ msgid ""
+#~ "The keybinding you chose for \"Toggle Fullscreen\" is invalid. Please "
+#~ "choose another."
+#~ msgstr ""
+#~ "Jūsų pasirinktas klavišų susiejimas skirtas „Perjungti viso ekrano "
+#~ "veikseną“ yra netinkamas. Pasirinkite kitą."
+
+#~ msgid "Problem while parsing config file\n"
+#~ msgstr "Apdorojant konfigūracijos failą įvyko klaida\n"
+
+#~ msgid ""
+#~ "Custom\n"
+#~ "Green on Black\n"
+#~ "Black on White\n"
+#~ "White on Black"
+#~ msgstr ""
+#~ "Pasirinktinai\n"
+#~ "Žaliai ant Juodo\n"
+#~ "Juodai ant Balto\n"
+#~ "Baltai ant Juodo"
+
+#~ msgid "Grab Keybinding"
+#~ msgstr "Nustatyti susaistymą"
+
+#~ msgid ""
+#~ "Hold the terminal open\n"
+#~ "Restart the command\n"
+#~ "Exit the terminal"
+#~ msgstr ""
+#~ "Laikyti terminalą atvertą\n"
+#~ "Pakartoti komandą\n"
+#~ "Išeiti iš teminalo"
+
+#~ msgid ""
+#~ "Isn't displayed\n"
+#~ "Goes after initial title\n"
+#~ "Goes before initial title\n"
+#~ "Replace initial title"
+#~ msgstr ""
+#~ "Nebuvo rodomas\n"
+#~ "Eina po pradinio pavadinimo\n"
+#~ "Eina prieš pradinį pavadinimą\n"
+#~ "Pakeiskite pradinį pavadinimą"
+
+#~ msgid "Key Binding"
+#~ msgstr "Klavišo susaistymas"
+
+#~ msgid ""
+#~ "On the Left\n"
+#~ "On the Right\n"
+#~ "Disabled"
+#~ msgstr ""
+#~ "Kairėje\n"
+#~ "Dešinėje\n"
+#~ "Išjungta"
+
+#~ msgid ""
+#~ "Top\n"
+#~ "Bottom\n"
+#~ "Left\n"
+#~ "Right"
+#~ msgstr ""
+#~ "Viršus\n"
+#~ "Apačia\n"
+#~ "Kairė\n"
+#~ "Dešinė"

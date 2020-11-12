@@ -1,0 +1,45 @@
+New Translations
+================================================================================
+We, the Tilda developers, have stopped using Launchpad to assist with our
+translation effort. It was located at
+https://translations.launchpad.net/tilda/trunk/+pots/tilda
+
+Please directly submit Pull Requests on GitHub to update translations or
+initialize new translation.
+
+
+How to integrate a new translation into Tilda
+================================================================================
+1) Copy the LANG.po file into the po/ directory.
+2) Add LANG to the po/LINGUAS file.
+
+The next time you completely rebuild and install Tilda, it will automatically
+compile and install the language file onto your system. Afterwards, if you run
+Tilda with the correct LANG environmental variable, Tilda should use your
+translation.
+
+
+How to do a new translation without Launchpad
+================================================================================
+cd po
+msginit -l en_US         # (for USA English. Creates en.po)
+
+# ... do the translation in your editor of choice ...
+
+# add your translation to the LINGUAS file, without the .po
+# extension.
+#
+# That would be "en" for the above examples
+#
+# If po/Makefile does not exist, please configure this project first:
+#
+# autoreconf --install --verbose --force
+# ./configure
+
+Then run the following commands:
+
+make update-po
+make update-gmo
+cd ..
+make
+

@@ -1,0 +1,1091 @@
+# Russian translation for tilda
+# Copyright (c) 2007 Rosetta Contributors and Canonical Ltd 2007
+# This file is distributed under the same license as the tilda package.
+# Anton Shestakov <engored@ya.ru>, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: tilda\n"
+"Report-Msgid-Bugs-To: sloutri@iit.edu\n"
+"POT-Creation-Date: 2020-02-08 23:45+0100\n"
+"PO-Revision-Date: 2020-10-12 12:42+0700\n"
+"Last-Translator: Anton Shestakov <Unknown>\n"
+"Language-Team: Russian <ru@li.org>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2008-04-28 05:36+0000\n"
+"X-Generator: Poedit 2.4.1\n"
+
+#: src/menu.ui:6
+msgid "_New Tab"
+msgstr "_Новая вкладка"
+
+#: src/menu.ui:10
+msgid "_Close Tab"
+msgstr "_Закрыть вкладку"
+
+#: src/menu.ui:16
+msgid "_Copy"
+msgstr "_Копировать"
+
+#: src/menu.ui:20
+msgid "_Paste"
+msgstr "_Вставить"
+
+#: src/menu.ui:26
+msgid "_Toggle Fullscreen"
+msgstr "_На полный экран"
+
+#: src/menu.ui:30
+msgid "_Toggle Searchbar"
+msgstr "_Панель поиска"
+
+#: src/menu.ui:36
+msgid "_Preferences"
+msgstr "_Настройки"
+
+#: src/menu.ui:42
+msgid "_Quit"
+msgstr "_выйти"
+
+#: src/tilda.ui:69
+msgid "Close Tilda"
+msgstr "Закрыть вкладку"
+
+#: src/tilda.ui:72
+msgid "Open a new terminal"
+msgstr "Открыть новый терминал"
+
+#: src/tilda.ui:75
+msgid "Open a new terminal and hide"
+msgstr "Открыть новый терминал и скрыть"
+
+#: src/tilda.ui:86 src/tilda.ui:194
+msgid "Top"
+msgstr "Верх"
+
+#: src/tilda.ui:89 src/tilda.ui:197
+msgid "Bottom"
+msgstr "Низ"
+
+#: src/tilda.ui:92 src/tilda.ui:200
+msgid "Left"
+msgstr "Лево"
+
+#: src/tilda.ui:95 src/tilda.ui:203
+msgid "Right"
+msgstr "Право"
+
+#: src/tilda.ui:98
+msgid "Hidden"
+msgstr "Скрыть"
+
+#: src/tilda.ui:109
+msgid "Focus Terminal"
+msgstr "Фокус Терминал"
+
+#: src/tilda.ui:112
+msgid "Hide Terminal"
+msgstr "Скрыть терминал"
+
+#: src/tilda.ui:123
+msgid "Block Cursor"
+msgstr "Блокировать курсор"
+
+#: src/tilda.ui:126
+msgid "IBeam Cursor"
+msgstr "Курсор IBeam"
+
+#: src/tilda.ui:129
+msgid "Underline Cursor"
+msgstr "Подчеркнуть курсор"
+
+#: src/tilda.ui:140
+msgid "Show whole tab title"
+msgstr "Показать весь заголовок вкладки"
+
+#: src/tilda.ui:143
+msgid "Show first n chars of title"
+msgstr "Показать первые n символов заголовка"
+
+#: src/tilda.ui:146
+msgid "Show last n chars of title"
+msgstr "Показать последние n символов заголовка"
+
+#: src/tilda.ui:157
+msgid "Isn't displayed"
+msgstr "Не отображается"
+
+#: src/tilda.ui:160
+msgid "Goes after initial title"
+msgstr "Идет после первоначального названия"
+
+#: src/tilda.ui:163
+msgid "Goes before initial title"
+msgstr "Идет перед первоначальным названием"
+
+#: src/tilda.ui:166
+msgid "Replace initial title"
+msgstr "Заменить первоначальный заголовок"
+
+#: src/tilda.ui:177
+msgid "Drop to the default shell"
+msgstr "Перейти в оболочку по умолчанию"
+
+#: src/tilda.ui:180
+msgid "Restart the command"
+msgstr "Перезапустить команду"
+
+#: src/tilda.ui:183
+msgid "Exit the terminal"
+msgstr "Выйти из терминала"
+
+#: src/tilda.ui:214 src/tilda.ui:246
+msgid "Custom"
+msgstr "пользовательский"
+
+#: src/tilda.ui:217
+msgid "Green on Black"
+msgstr "Зеленый на черном"
+
+#: src/tilda.ui:220
+msgid "Black on White"
+msgstr "Черный на белом"
+
+#: src/tilda.ui:223
+msgid "White on Black"
+msgstr "Белое на черном"
+
+#: src/tilda.ui:226
+msgid "Zenburn"
+msgstr "Зенбурн"
+
+#: src/tilda.ui:229
+msgid "Solarized Light"
+msgstr "Соляризованный свет"
+
+#: src/tilda.ui:232
+msgid "Solarized Dark"
+msgstr "Соляризованная тьма"
+
+#: src/tilda.ui:235
+msgid "Snazzy"
+msgstr "Шикарный"
+
+#: src/tilda.ui:257
+msgid "On the Left"
+msgstr "Слева"
+
+#: src/tilda.ui:260
+msgid "On the Right"
+msgstr "Справа"
+
+#: src/tilda.ui:263
+msgid "Disabled"
+msgstr "отключен"
+
+#: src/tilda.ui:274 src/tilda.ui:291
+msgid "ASCII DEL"
+msgstr "ASCII DEL"
+
+#: src/tilda.ui:277 src/tilda.ui:294
+msgid "Escape sequence"
+msgstr "Последовательность выхода"
+
+#: src/tilda.ui:280 src/tilda.ui:297
+msgid "Control-H"
+msgstr "Control-H"
+
+#: src/tilda.ui:314
+msgid "Tilda Config"
+msgstr "Настройка Tilda"
+
+#: src/tilda.ui:395
+msgid "Start Tilda hidden"
+msgstr "Скрыть Tilda при запуске"
+
+#: src/tilda.ui:409
+msgid "Always on top"
+msgstr "Поверх всех окон"
+
+#: src/tilda.ui:423
+msgid "Display on all workspaces"
+msgstr "Отображать на всех рабочих столах"
+
+#: src/tilda.ui:437
+msgid "Do not show in taskbar"
+msgstr "Не показывать в панели задач"
+
+#: src/tilda.ui:451
+msgid "Show Notebook Border"
+msgstr "Рамка вокруг окна"
+
+#: src/tilda.ui:465
+msgid "Set as Desktop window"
+msgstr "Установить как окно рабочего стола"
+
+#: src/tilda.ui:480
+msgid "Start in fullscreen"
+msgstr "Начать в полноэкранном режиме"
+
+#: src/tilda.ui:509
+msgid "Non-focus Pull Up Behaviour:"
+msgstr "Поведение при подтягивании без фокуса"
+
+#: src/tilda.ui:560
+msgid "<b>Window Display</b>"
+msgstr "<b>Настройки отображения</b>"
+
+#: src/tilda.ui:598
+msgid "Cursor Blinks"
+msgstr "Мерцающий курсор"
+
+#: src/tilda.ui:612
+msgid "Audible Terminal Bell"
+msgstr "Звуковой сигнал терминала"
+
+#: src/tilda.ui:628
+msgid "Cursor Shape: "
+msgstr "Форма курсора:"
+
+#: src/tilda.ui:663
+msgid "<b>Terminal Display</b>"
+msgstr "<b>Внешний вид терминала</b>"
+
+#: src/tilda.ui:703
+msgid "Font:"
+msgstr "Шрифт:"
+
+#: src/tilda.ui:733
+msgid "<b>Font</b>"
+msgstr "<b>Шрифт</b>"
+
+#: src/tilda.ui:782
+msgid "Hide Tilda when mouse leaves it"
+msgstr "Скрыть Тильду, когда мышь покинет ее"
+
+#: src/tilda.ui:799
+msgid "Auto Hide Delay:"
+msgstr "Автоматическая задержка скрытия"
+
+#: src/tilda.ui:809
+msgid "Hide when Tilda loses focus"
+msgstr "Спрятать, когда Тильда теряет фокус"
+
+#: src/tilda.ui:829
+msgid "<b>Auto Hide</b>"
+msgstr "<b> Скрыть автоматически </b>"
+
+#: src/tilda.ui:868
+msgid "When last terminal is closed:"
+msgstr "Когда последний терминал закрыт:"
+
+#: src/tilda.ui:895
+msgid "Always prompt on exit"
+msgstr "Всегда спрашивать при выходе"
+
+#: src/tilda.ui:918
+msgid "<b>Program Exit</b>"
+msgstr "<b> Выход из программы </b>"
+
+#: src/tilda.ui:936
+msgid ""
+"<small><i><b>Note:</b> Some options require that tilda is restarted.</i></"
+"small>"
+msgstr ""
+"<small><i> <b> Примечание. </b> Для некоторых параметров требуется "
+"перезапуск программы. </i> </small>"
+
+#: src/tilda.ui:953
+msgid "General"
+msgstr "Основные"
+
+#: src/tilda.ui:998
+msgid "Word Characters:"
+msgstr "Символы:"
+
+#: src/tilda.ui:1026
+msgid "<b>Select by Word</b>"
+msgstr "<b> Выбрать по слову </b>"
+
+#: src/tilda.ui:1076
+msgid "Web Browser *:"
+msgstr "Браузер:"
+
+#: src/tilda.ui:1093
+msgid "<b>URL Handling</b>"
+msgstr "<b>Обработка URL</b>"
+
+#: src/tilda.ui:1128
+msgid "Initial Title:"
+msgstr "Исходный заголовок:"
+
+#: src/tilda.ui:1150
+msgid "Title Max Length:"
+msgstr "Максимальная длина заголовка:"
+
+#: src/tilda.ui:1191
+msgid "Dynamically-set Title:"
+msgstr "Автоматическй заголовок:"
+
+#: src/tilda.ui:1203
+msgid "Title Behaviour:"
+msgstr "Поведение по заголовку:"
+
+#: src/tilda.ui:1236
+msgid "<b>Title</b>"
+msgstr "<b>Заголовок</b>"
+
+#: src/tilda.ui:1297
+msgid "Run a custom command instead of the shell"
+msgstr "Запускать пользовательскую команду вместо shell"
+
+#: src/tilda.ui:1313
+msgid "Custom Command:"
+msgstr "Пользовательская команда:"
+
+#: src/tilda.ui:1325
+msgid "When Command Exits:"
+msgstr "Когда команда завершается:"
+
+#: src/tilda.ui:1335
+msgid "Use a login shell"
+msgstr "Используйте оболочку входа"
+
+#: src/tilda.ui:1361
+msgid "<b>Command</b>"
+msgstr "<b>Команда</b>"
+
+#: src/tilda.ui:1388
+msgid ""
+"* A valid command that can open a browser must be entered here. It is "
+"possible to use the name of a specific browser such as 'firefox' and 'google-"
+"chrome' or to use the generic commands 'x-www-browser' and 'xdg-open'. The "
+"best command may be different depending on the system."
+msgstr ""
+"* Здесь необходимо ввести действительную команду, которая может открыть "
+"браузер. Можно использовать имя определенного браузера, например firefox и "
+"google-chrome, или использовать общие команды x-www-browser и xdg-open. "
+"Лучшая команда может отличаться в зависимости от системы."
+
+#: src/tilda.ui:1425
+msgid "Show confirmation dialog when closing tab"
+msgstr "Показывать диалог подтверждения при закрытии вкладки"
+
+#: src/tilda.ui:1445
+msgid "Close Action"
+msgstr "Закрыть вкладку"
+
+#: src/tilda.ui:1466
+msgid "Title and Command"
+msgstr "Заголовок и команда"
+
+#: src/tilda.ui:1510 src/tilda.ui:1688
+msgid "Percentage"
+msgstr "В процентах"
+
+#: src/tilda.ui:1534 src/tilda.ui:1700
+msgid "In Pixels"
+msgstr "В пикселах"
+
+#: src/tilda.ui:1561
+msgid "<b>Height</b>"
+msgstr "<b>Высота</b>"
+
+#: src/tilda.ui:1597
+msgid "Monitor:"
+msgstr "Монитор:"
+
+#: src/tilda.ui:1652
+msgid "<b>Select monitor</b>"
+msgstr "<b> Выбрать монитор </b>"
+
+#: src/tilda.ui:1739
+msgid "<b>Width</b>"
+msgstr "<b>Ширина</b>"
+
+#: src/tilda.ui:1775
+msgid "Centered Horizontally"
+msgstr "Центрировать по горизонтали"
+
+#: src/tilda.ui:1793
+msgid "Y Position"
+msgstr "Позиция по вертикали"
+
+#: src/tilda.ui:1827
+msgid "X Position"
+msgstr "Позиция по горизонтали"
+
+#: src/tilda.ui:1837
+msgid "Centered Vertically"
+msgstr "Центрировать по вертикали"
+
+#: src/tilda.ui:1865
+msgid "<b>Position</b>"
+msgstr "<b>Расположение</b>"
+
+#: src/tilda.ui:1903
+msgid "Position of Tabs:"
+msgstr "Расположение вкладок:"
+
+#: src/tilda.ui:1930
+msgid "Expand Tabs"
+msgstr "Развернуть вкладки"
+
+#: src/tilda.ui:1944
+msgid "Show single Tab"
+msgstr "Показать отдельную вкладку"
+
+#: src/tilda.ui:1958
+msgid "Display Title in Tooltip"
+msgstr "Отображать заголовок во всплывающей подсказке"
+
+#: src/tilda.ui:1981
+msgid "<b>Tabs</b>"
+msgstr "<b> Вкладки </b>"
+
+#: src/tilda.ui:2030
+msgid "Animation Delay (usec)"
+msgstr "Задержка анимации (usec)"
+
+#: src/tilda.ui:2042
+msgid "Animation Orientation"
+msgstr "Направление анимации"
+
+#: src/tilda.ui:2080
+msgid "Animated Pulldown"
+msgstr "Анимировать появление/скрытие"
+
+#: src/tilda.ui:2096
+msgid "Level of Transparency"
+msgstr "Уровень прозрачности"
+
+#: src/tilda.ui:2106
+msgid "Enable Transparency"
+msgstr "Включить прозрачность"
+
+#: src/tilda.ui:2129
+msgid "<b>Extras</b>"
+msgstr "<b>Дополнительно</b>"
+
+#: src/tilda.ui:2148
+msgid "Appearance"
+msgstr "Внешний вид"
+
+#: src/tilda.ui:2217
+msgid "Cursor Color"
+msgstr "Цвет курсора"
+
+#: src/tilda.ui:2265
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: src/tilda.ui:2277
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: src/tilda.ui:2289
+msgid "Built-in Schemes"
+msgstr "Встроенные схемы"
+
+#: src/tilda.ui:2303
+msgid "<b>Foreground and Background Colors</b>"
+msgstr "<b> Цвета переднего плана и фона </b>"
+
+#: src/tilda.ui:2335
+msgid ""
+"<small><i><b>Note:</b> Terminal applications have these colors available to "
+"them.</i></small>"
+msgstr ""
+"<small><i> <b> Примечание. </b> Терминал может использовать эти цвета. </i> "
+"</small>"
+
+#: src/tilda.ui:2378
+msgid "Choose Color 14"
+msgstr "Выберите цвет 14"
+
+#: src/tilda.ui:2391
+msgid "Choose Color 13"
+msgstr "Выберите цвет 13"
+
+#: src/tilda.ui:2404
+msgid "Choose Color 15"
+msgstr "Выберите цвет 15"
+
+#: src/tilda.ui:2417
+msgid "Choose Color 12"
+msgstr "Выберите цвет 12"
+
+#: src/tilda.ui:2430
+msgid "Choose Color 10"
+msgstr "Выберите цвет 10"
+
+#: src/tilda.ui:2443
+msgid "Choose Color 11"
+msgstr "Выберите цвет 11"
+
+#: src/tilda.ui:2456
+msgid "Choose Color 9"
+msgstr "Выберите цвет 9"
+
+#: src/tilda.ui:2469
+msgid "Choose Color 7"
+msgstr "Выберите цвет 7"
+
+#: src/tilda.ui:2482
+msgid "Choose Color 6"
+msgstr "Выберите цвет 6"
+
+#: src/tilda.ui:2495
+msgid "Choose Color 5"
+msgstr "Выберите цвет 5"
+
+#: src/tilda.ui:2508
+msgid "Choose Color 4"
+msgstr "Выберите цвет 4"
+
+#: src/tilda.ui:2521
+msgid "Choose Color 3"
+msgstr "Выберите цвет 3"
+
+#: src/tilda.ui:2534
+msgid "Choose Color 2"
+msgstr "Выберите цвет 2"
+
+#: src/tilda.ui:2547
+msgid "Choose Color 1"
+msgstr "Выберите цвет 1"
+
+#: src/tilda.ui:2560
+msgid "Choose Color 0"
+msgstr "Выберите цвет 0"
+
+#: src/tilda.ui:2574
+msgid "Choose Color 8"
+msgstr "Выберите цвет 8"
+
+#: src/tilda.ui:2591
+msgid "Built-in schemes:"
+msgstr "Встроенные схемы:"
+
+#: src/tilda.ui:2606
+msgid "Color palette:"
+msgstr "Цветовая палитра"
+
+#: src/tilda.ui:2622
+msgid "<b>Palette</b>"
+msgstr "<b> Палитра </b>"
+
+#: src/tilda.ui:2641
+msgid "Colors"
+msgstr "Цвета"
+
+#: src/tilda.ui:2698
+msgid "Scrollbar is:"
+msgstr "Полоса прокрутки:"
+
+#: src/tilda.ui:2707
+msgid "Limit scrollback to:"
+msgstr "Буфер прокрутки:"
+
+#: src/tilda.ui:2711
+msgid "Unselect for unlimited scrollback."
+msgstr "Снимите флажок для неограниченной прокрутки"
+
+#: src/tilda.ui:2723
+msgid "Scroll on Output"
+msgstr "Прокручивать по мере появления текста"
+
+#: src/tilda.ui:2737
+msgid "Scroll on Keystroke"
+msgstr "Прокручивать клавишами"
+
+#: src/tilda.ui:2759
+msgid "0"
+msgstr ""
+
+#: src/tilda.ui:2771
+msgid "lines"
+msgstr "cтроки"
+
+#: src/tilda.ui:2797
+msgid "<b>Scrolling</b>"
+msgstr "<b>Прокрутка</b>"
+
+#: src/tilda.ui:2818
+msgid "Scrolling"
+msgstr "Прокрутка"
+
+#: src/tilda.ui:2857
+msgid ""
+"<small><i><b>Note:</b> These options may cause some applications to behave "
+"incorrectly.  They are only here to allow you to work around certain "
+"applications and operating systems that expect different terminal behavior.</"
+"i></small>"
+msgstr ""
+"<small><i><b>Замечание:</b> Эти параметры могут вызвать некорректную работу "
+"некоторых приложений. Они представлены только для того, чтобы позволить "
+"работать с некоторыми приложениями и операционными ситемами, ожидающими "
+"другого поведения терминала.</i></small>"
+
+#: src/tilda.ui:2873
+msgid "_Backspace key generates:"
+msgstr "Клавиша _Backspace вызывает:"
+
+#: src/tilda.ui:2887
+msgid "_Delete key generates:"
+msgstr "Клавиша _Delete вызывает:"
+
+#: src/tilda.ui:2899
+msgid "_Reset Compatibility Options to Defaults"
+msgstr "_Восстановить параметры совместимости по умолчанию"
+
+#: src/tilda.ui:2953
+msgid "<b>Compatibility</b>"
+msgstr "<b>Совместимость</b>"
+
+#: src/tilda.ui:2972
+msgid "Compatibility"
+msgstr "Совместимость"
+
+#: src/tilda.ui:3024
+msgid "<b>Keybindings</b>"
+msgstr "<b>Сочетание клавиш</b>"
+
+#: src/tilda.ui:3043
+msgid "Keybindings"
+msgstr "Сочетание клавиш"
+
+#: src/configsys.c:384
+msgid "Unable to sync the config file to disk\n"
+msgstr "Не удалось записать конфигурационный файл на диск\n"
+
+#: src/configsys.c:394
+msgid "Unable to close the config file\n"
+msgstr "Не удалось закрыть конфигурационный файл\n"
+
+#: src/configsys.c:407
+#, c-format
+msgid "Unable to write the config file to %s\n"
+msgstr "Возникла ошибка при записи конфигурационного файла в %s\n"
+
+#: src/tilda.c:239
+#, c-format
+msgid "Unable to run command: `%s'\n"
+msgstr "Не удалось выполнить команду: «%s»\n"
+
+#: src/tilda.c:284 src/tilda.c:459
+#, c-format
+msgid "Unable to open lock directory: %s\n"
+msgstr "Невозможно открыть директорию lock: %s\n"
+
+#: src/tilda.c:396
+#, c-format
+msgid "Creating directory:'%s'\n"
+msgstr "Создание каталога: '% s' \n"
+
+#: src/tilda.c:555
+msgid ""
+"Found style.css in the user config directory, applying user css style.\n"
+msgstr "style.css в каталоге конфигурации пользователя\n"
+
+#: src/tilda.c:610
+msgid "Migrating old config path to XDG folders\n"
+msgstr "Перенос старого пути конфигурации в папки XDG\n"
+
+#: src/tilda.c:673
+#, c-format
+msgid "Specified config file '%s' does not exist. Reverting to default path.\n"
+msgstr ""
+"Указанный файл конфигурации \"% s\" не существует. Возврат к пути по "
+"умолчанию.\n"
+
+#: src/tilda.c:766 src/tilda-keybinding.c:409
+#, fuzzy
+msgid ""
+"The keybinding you chose for \"Pull Down Terminal\" is invalid. Please "
+"choose another."
+msgstr "Комбинация клавиш, которую вы выбрали, неверная. Выберите другую."
+
+#: src/tilda-keybinding.c:115
+msgid "Action"
+msgstr "Дейтвие"
+
+#: src/tilda-keybinding.c:121
+msgid "Shortcut"
+msgstr "Сочетание клавиш"
+
+#: src/tilda-keybinding.c:306
+msgid "Enter keyboard shortcut"
+msgstr "Введите сочетание"
+
+#: src/tilda-keybinding.c:417
+#, fuzzy, c-format
+msgid "The keybinding you chose for \"%s\" is invalid. Please choose another."
+msgstr "Комбинация клавиш, которую вы выбрали, неверная. Выберите другую."
+
+#: src/tilda_terminal.c:398
+#, fuzzy, c-format
+msgid "Problem reading link %s: %s\n"
+msgstr "Возникла проблема при обработке пользовательской команды: %s\n"
+
+#: src/tilda_terminal.c:421
+#, c-format
+msgid "Unable to launch default shell: %s\n"
+msgstr "Не удалось запустить оболочку по умолчанию: %s\n"
+
+#: src/tilda_terminal.c:423
+#, c-format
+msgid "Unable to launch custom command: %s\n"
+msgstr "Не удалось запустить пользовательскую команду: %s\n"
+
+#: src/tilda_terminal.c:424
+#, fuzzy, c-format
+msgid "Launching custom command failed with error: %s\n"
+msgstr "Запускать пользовательскую команду вместо shell"
+
+#: src/tilda_terminal.c:425 src/tilda_terminal.c:459
+msgid "Launching default shell instead\n"
+msgstr "Запуск оболочки по умолчанию вместо\n"
+
+#: src/tilda_terminal.c:458
+#, c-format
+msgid "Problem parsing custom command: %s\n"
+msgstr "Возникла проблема при обработке пользовательской команды: %s\n"
+
+#: src/tilda_terminal.c:976
+#, c-format
+msgid "Failed to launch the web browser. The command was `%s'\n"
+msgstr "Ошибка при запуске веб-браузера командой «%s»\n"
+
+#: src/tilda_terminal.c:1026
+msgid "Untitled"
+msgstr "Безымянный"
+
+#: src/tilda_terminal.c:1044
+msgid "Bad value for \"d_set_title\" in config file\n"
+msgstr "Неправильное значение параметра \"d_set_title\" в файле конфигурации\n"
+
+#: src/tilda_window.c:109
+msgid "Are you sure you want to close this tab?"
+msgstr "Вы уверены, что хотите закрыть эту вкладку"
+
+#: src/tilda_window.c:156
+msgid "You have a bad tab_pos in your configuration file\n"
+msgstr "Неправильный параметр tab_pos в файле конфигурации\n"
+
+#: src/tilda_window.c:811
+#, c-format
+msgid "Unable to set tilda's icon: %s\n"
+msgstr "Не удалось установить иконку tilda: %s\n"
+
+#: src/tilda_window.c:1105
+msgid "Out of memory, cannot create tab\n"
+msgstr "Не удалось создать вкладку: память исчерпана\n"
+
+#: src/tilda_window.c:1225
+msgid "Are you sure you want to Quit?"
+msgstr "Вы уверены, что хотите выйти?"
+
+#: src/wizard.c:138
+#, c-format
+msgid "Tilda %d Config"
+msgstr "Настройка %d Tilda"
+
+#: src/wizard.c:561
+msgid "Invalid Cursor Type, resetting to default\n"
+msgstr "Недействительный тип курсора, возврат к значениям по умолчанию\n"
+
+#: src/wizard.c:579
+msgid "Invalid non-focus pull up behaviour, ignoring\n"
+msgstr "Недопустимое поведение подтягивания без фокуса, игнорирование\n"
+
+#: src/wizard.c:1046
+msgid "Invalid tab position setting, ignoring\n"
+msgstr "Неправильный вариант положения вкладки, пропущен\n"
+
+#~ msgid "Allow Bold Text"
+#~ msgstr "Разрешить полужирный текст"
+
+#~ msgid "Set the background color"
+#~ msgstr "Установить цвет фона"
+
+#~ msgid "Run a command at startup"
+#~ msgstr "Запустить команду при запуске"
+
+#~ msgid "Set the font to the following string"
+#~ msgstr "Использовать указанный шрифт"
+
+#, fuzzy
+#~ msgid "Configuration file"
+#~ msgstr "Запустить мастер конфигурации"
+
+#~ msgid "Scrollback Lines"
+#~ msgstr "Размер буфера прокрутки, строк"
+
+#~ msgid "Use Scrollbar"
+#~ msgstr "Использовать полосу прокрутки"
+
+#~ msgid "Print the version, then exit"
+#~ msgstr "Вывести версию и выйти"
+
+#~ msgid "Set Initial Working Directory"
+#~ msgstr "Установить рабочую директорию"
+
+#~ msgid "Opaqueness: 0-100%"
+#~ msgstr "Непрозрачность: 0-100%"
+
+#~ msgid "Show Configuration Wizard"
+#~ msgstr "Запустить мастер конфигурации"
+
+#~ msgid ""
+#~ "Error parsing command-line options. Try \"tilda --help\"\n"
+#~ "to see all possible options.\n"
+#~ "\n"
+#~ "Error message: %s\n"
+#~ msgstr ""
+#~ "Ошибка обработки опций командной строки. Получить список доступных\n"
+#~ "опций можно, запустив «tilda --help»\n"
+#~ "\n"
+#~ "Сообщение об ошибке: %s\n"
+
+#, fuzzy
+#~ msgid ""
+#~ "Error parsing Glib and GTK specific command-line options. Try \"tilda --"
+#~ "help-all\"\n"
+#~ "to see all possible options.\n"
+#~ "\n"
+#~ "Error message: %s\n"
+#~ msgstr ""
+#~ "Ошибка обработки опций командной строки. Получить список доступных\n"
+#~ "опций можно, запустив «tilda --help»\n"
+#~ "\n"
+#~ "Сообщение об ошибке: %s\n"
+
+#~ msgid "Enable Antialiasing"
+#~ msgstr "Включить сглаживание"
+
+#~ msgid "Use Image for Background"
+#~ msgstr "Использовать изображение в качестве фона"
+
+#~ msgid "Scroll Background"
+#~ msgstr "Прокручивать фоновое изображение"
+
+#~ msgid "Use Antialiased Fonts"
+#~ msgstr "Использовать сглаживание шрифтов"
+
+#~ msgid "Set Background Image"
+#~ msgstr "Установить фоновое изображение"
+
+#~ msgid "Enable Double Buffering"
+#~ msgstr "Двойная буферизация"
+
+#~ msgid "    "
+#~ msgstr "    "
+
+#, fuzzy
+#~ msgid "<b>Paste</b>"
+#~ msgstr "<b>Заголовок</b>"
+
+#, fuzzy
+#~ msgid "<b>Quit</b>"
+#~ msgstr "<b>Заголовок</b>"
+
+#, fuzzy
+#~ msgid "<b>Close Tab</b>"
+#~ msgstr "_Закрыть вкладку"
+
+#, fuzzy
+#~ msgid "<b>Copy</b>"
+#~ msgstr "<b>Шрифт</b>"
+
+#, fuzzy
+#~ msgid "<b>Pull Down Terminal</b>"
+#~ msgstr "<b>Горячая клавиша</b>"
+
+#, fuzzy
+#~ msgid "<b>Move Tab Left</b>"
+#~ msgstr "_Закрыть вкладку"
+
+#, fuzzy
+#~ msgid "<b>Move Tab Right</b>"
+#~ msgstr "<b>Высота</b>"
+
+#, fuzzy
+#~ msgid "Problem when opening config file\n"
+#~ msgstr "Возникла проблема при обработке файла конфигурации\n"
+
+#, fuzzy
+#~ msgid ""
+#~ "The keybinding you chose for \"Add Tab\" is invalid. Please choose "
+#~ "another."
+#~ msgstr "Комбинация клавиш, которую вы выбрали, неверная. Выберите другую."
+
+#, fuzzy
+#~ msgid ""
+#~ "The keybinding you chose for \"Close Tab\" is invalid. Please choose "
+#~ "another."
+#~ msgstr "Комбинация клавиш, которую вы выбрали, неверная. Выберите другую."
+
+#, fuzzy
+#~ msgid ""
+#~ "The keybinding you chose for \"Next Tab\" is invalid. Please choose "
+#~ "another."
+#~ msgstr "Комбинация клавиш, которую вы выбрали, неверная. Выберите другую."
+
+#, fuzzy
+#~ msgid ""
+#~ "The keybinding you chose for \"Previous Tab\" is invalid. Please choose "
+#~ "another."
+#~ msgstr "Комбинация клавиш, которую вы выбрали, неверная. Выберите другую."
+
+#, fuzzy
+#~ msgid ""
+#~ "The keybinding you chose for \"Move Tab to Left\" is invalid. Please "
+#~ "choose another."
+#~ msgstr "Комбинация клавиш, которую вы выбрали, неверная. Выберите другую."
+
+#, fuzzy
+#~ msgid ""
+#~ "The keybinding you chose for \"Move Tab to Right\" is invalid. Please "
+#~ "choose another."
+#~ msgstr "Комбинация клавиш, которую вы выбрали, неверная. Выберите другую."
+
+#, fuzzy
+#~ msgid ""
+#~ "The keybinding you chose for \"Copy\" is invalid. Please choose another."
+#~ msgstr "Комбинация клавиш, которую вы выбрали, неверная. Выберите другую."
+
+#, fuzzy
+#~ msgid ""
+#~ "The keybinding you chose for \"Quit\" is invalid. Please choose another."
+#~ msgstr "Комбинация клавиш, которую вы выбрали, неверная. Выберите другую."
+
+#, fuzzy
+#~ msgid ""
+#~ "The keybinding you chose for \"Go To Tab 1\" is invalid. Please choose "
+#~ "another."
+#~ msgstr "Комбинация клавиш, которую вы выбрали, неверная. Выберите другую."
+
+#, fuzzy
+#~ msgid ""
+#~ "The keybinding you chose for \"Go To Tab 2\" is invalid. Please choose "
+#~ "another."
+#~ msgstr "Комбинация клавиш, которую вы выбрали, неверная. Выберите другую."
+
+#, fuzzy
+#~ msgid ""
+#~ "The keybinding you chose for \"Go To Tab 3\" is invalid. Please choose "
+#~ "another."
+#~ msgstr "Комбинация клавиш, которую вы выбрали, неверная. Выберите другую."
+
+#, fuzzy
+#~ msgid ""
+#~ "The keybinding you chose for \"Go To Tab 4\" is invalid. Please choose "
+#~ "another."
+#~ msgstr "Комбинация клавиш, которую вы выбрали, неверная. Выберите другую."
+
+#, fuzzy
+#~ msgid ""
+#~ "The keybinding you chose for \"Go To Tab 5\" is invalid. Please choose "
+#~ "another."
+#~ msgstr "Комбинация клавиш, которую вы выбрали, неверная. Выберите другую."
+
+#, fuzzy
+#~ msgid ""
+#~ "The keybinding you chose for \"Go To Tab 6\" is invalid. Please choose "
+#~ "another."
+#~ msgstr "Комбинация клавиш, которую вы выбрали, неверная. Выберите другую."
+
+#, fuzzy
+#~ msgid ""
+#~ "The keybinding you chose for \"Go To Tab 7\" is invalid. Please choose "
+#~ "another."
+#~ msgstr "Комбинация клавиш, которую вы выбрали, неверная. Выберите другую."
+
+#, fuzzy
+#~ msgid ""
+#~ "The keybinding you chose for \"Go To Tab 8\" is invalid. Please choose "
+#~ "another."
+#~ msgstr "Комбинация клавиш, которую вы выбрали, неверная. Выберите другую."
+
+#, fuzzy
+#~ msgid ""
+#~ "The keybinding you chose for \"Go To Tab 9\" is invalid. Please choose "
+#~ "another."
+#~ msgstr "Комбинация клавиш, которую вы выбрали, неверная. Выберите другую."
+
+#, fuzzy
+#~ msgid ""
+#~ "The keybinding you chose for \"Go To Tab 10\" is invalid. Please choose "
+#~ "another."
+#~ msgstr "Комбинация клавиш, которую вы выбрали, неверная. Выберите другую."
+
+#, fuzzy
+#~ msgid ""
+#~ "The keybinding you chose for \"Toggle Fullscreen\" is invalid. Please "
+#~ "choose another."
+#~ msgstr "Комбинация клавиш, которую вы выбрали, неверная. Выберите другую."
+
+#, fuzzy
+#~ msgid "Problem while parsing config file\n"
+#~ msgstr "Возникла проблема при обработке файла конфигурации\n"
+
+#~ msgid ""
+#~ "Top\n"
+#~ "Bottom\n"
+#~ "Left\n"
+#~ "Right"
+#~ msgstr ""
+#~ "Сверху\n"
+#~ "Снизу\n"
+#~ "Слева\n"
+#~ "Справа"
+
+#~ msgid ""
+#~ "Isn't displayed\n"
+#~ "Goes after initial title\n"
+#~ "Goes before initial title\n"
+#~ "Replace initial title"
+#~ msgstr ""
+#~ "Не показывать\n"
+#~ "После начального заголовка\n"
+#~ "Перед начальным заголовком\n"
+#~ "Вместо начального заголовка"
+
+#~ msgid ""
+#~ "Hold the terminal open\n"
+#~ "Restart the command\n"
+#~ "Exit the terminal"
+#~ msgstr ""
+#~ "Держать терминал открытым\n"
+#~ "Перезапустить команду\n"
+#~ "Выйти из терминала"
+
+#~ msgid ""
+#~ "Custom\n"
+#~ "Green on Black\n"
+#~ "Black on White\n"
+#~ "White on Black"
+#~ msgstr ""
+#~ "Пользовательская\n"
+#~ "Зеленый на черном\n"
+#~ "Черный на белом\n"
+#~ "Белый на черном"
+
+#~ msgid ""
+#~ "On the Left\n"
+#~ "On the Right\n"
+#~ "Disabled"
+#~ msgstr ""
+#~ "Слева\n"
+#~ "Справа\n"
+#~ "Выключен"
+
+#~ msgid "Key Binding"
+#~ msgstr "Привязка к клавише"
+
+#~ msgid "Grab Keybinding"
+#~ msgstr "Установить комбинацию клавиш"

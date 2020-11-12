@@ -1,0 +1,1101 @@
+# Hungarian translation for tilda
+# Copyright (c) 2008 Rosetta Contributors and Canonical Ltd 2008
+# This file is distributed under the same license as the tilda package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: tilda\n"
+"Report-Msgid-Bugs-To: sloutri@iit.edu\n"
+"POT-Creation-Date: 2020-02-08 23:45+0100\n"
+"PO-Revision-Date: 2008-03-05 00:28+0000\n"
+"Last-Translator: Pittmann Tamás <zaivaldi@gmail.com>\n"
+"Language-Team: Hungarian <hu@li.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2008-04-28 05:36+0000\n"
+"X-Generator: Launchpad (build Unknown)\n"
+
+#: src/menu.ui:6
+msgid "_New Tab"
+msgstr "Új _fül"
+
+#: src/menu.ui:10
+msgid "_Close Tab"
+msgstr "Fül _bezárása"
+
+#: src/menu.ui:16
+msgid "_Copy"
+msgstr ""
+
+#: src/menu.ui:20
+msgid "_Paste"
+msgstr ""
+
+#: src/menu.ui:26
+msgid "_Toggle Fullscreen"
+msgstr ""
+
+#: src/menu.ui:30
+msgid "_Toggle Searchbar"
+msgstr ""
+
+#: src/menu.ui:36
+msgid "_Preferences"
+msgstr ""
+
+#: src/menu.ui:42
+msgid "_Quit"
+msgstr ""
+
+#: src/tilda.ui:69
+#, fuzzy
+msgid "Close Tilda"
+msgstr "Fül _bezárása"
+
+#: src/tilda.ui:72
+msgid "Open a new terminal"
+msgstr ""
+
+#: src/tilda.ui:75
+msgid "Open a new terminal and hide"
+msgstr ""
+
+#: src/tilda.ui:86 src/tilda.ui:194
+msgid "Top"
+msgstr ""
+
+#: src/tilda.ui:89 src/tilda.ui:197
+msgid "Bottom"
+msgstr ""
+
+#: src/tilda.ui:92 src/tilda.ui:200
+msgid "Left"
+msgstr ""
+
+#: src/tilda.ui:95 src/tilda.ui:203
+msgid "Right"
+msgstr ""
+
+#: src/tilda.ui:98
+msgid "Hidden"
+msgstr ""
+
+#: src/tilda.ui:109
+msgid "Focus Terminal"
+msgstr ""
+
+#: src/tilda.ui:112
+#, fuzzy
+msgid "Hide Terminal"
+msgstr "Hangos terminál csengő"
+
+#: src/tilda.ui:123
+msgid "Block Cursor"
+msgstr ""
+
+#: src/tilda.ui:126
+msgid "IBeam Cursor"
+msgstr ""
+
+#: src/tilda.ui:129
+msgid "Underline Cursor"
+msgstr ""
+
+#: src/tilda.ui:140
+msgid "Show whole tab title"
+msgstr ""
+
+#: src/tilda.ui:143
+msgid "Show first n chars of title"
+msgstr ""
+
+#: src/tilda.ui:146
+msgid "Show last n chars of title"
+msgstr ""
+
+#: src/tilda.ui:157
+msgid "Isn't displayed"
+msgstr ""
+
+#: src/tilda.ui:160
+msgid "Goes after initial title"
+msgstr ""
+
+#: src/tilda.ui:163
+msgid "Goes before initial title"
+msgstr ""
+
+#: src/tilda.ui:166
+#, fuzzy
+msgid "Replace initial title"
+msgstr "Ablakcím induláskor:"
+
+#: src/tilda.ui:177
+#, fuzzy
+msgid "Drop to the default shell"
+msgstr "Nem tudom elindítani az alapértelmezett héjat: %s\n"
+
+#: src/tilda.ui:180
+msgid "Restart the command"
+msgstr ""
+
+#: src/tilda.ui:183
+msgid "Exit the terminal"
+msgstr ""
+
+#: src/tilda.ui:214 src/tilda.ui:246
+msgid "Custom"
+msgstr ""
+
+#: src/tilda.ui:217
+msgid "Green on Black"
+msgstr ""
+
+#: src/tilda.ui:220
+msgid "Black on White"
+msgstr ""
+
+#: src/tilda.ui:223
+msgid "White on Black"
+msgstr ""
+
+#: src/tilda.ui:226
+msgid "Zenburn"
+msgstr ""
+
+#: src/tilda.ui:229
+msgid "Solarized Light"
+msgstr ""
+
+#: src/tilda.ui:232
+msgid "Solarized Dark"
+msgstr ""
+
+#: src/tilda.ui:235
+msgid "Snazzy"
+msgstr ""
+
+#: src/tilda.ui:257
+msgid "On the Left"
+msgstr ""
+
+#: src/tilda.ui:260
+msgid "On the Right"
+msgstr ""
+
+#: src/tilda.ui:263
+msgid "Disabled"
+msgstr ""
+
+#: src/tilda.ui:274 src/tilda.ui:291
+msgid "ASCII DEL"
+msgstr ""
+
+#: src/tilda.ui:277 src/tilda.ui:294
+#, fuzzy
+msgid "Escape sequence"
+msgstr ""
+"ASCII DEL\n"
+"Escape sorozat\n"
+"Control-H"
+
+#: src/tilda.ui:280 src/tilda.ui:297
+msgid "Control-H"
+msgstr ""
+
+#: src/tilda.ui:314
+msgid "Tilda Config"
+msgstr "Tilda Beállítás"
+
+#: src/tilda.ui:395
+msgid "Start Tilda hidden"
+msgstr "Tilda indítása rejtve"
+
+#: src/tilda.ui:409
+msgid "Always on top"
+msgstr "Mindig felül"
+
+#: src/tilda.ui:423
+msgid "Display on all workspaces"
+msgstr "Minden munkaterületen megjelenjen"
+
+#: src/tilda.ui:437
+msgid "Do not show in taskbar"
+msgstr "Ne jelenjen meg a feladatlistában"
+
+#: src/tilda.ui:451
+msgid "Show Notebook Border"
+msgstr "Keret megjelenítése"
+
+#: src/tilda.ui:465
+msgid "Set as Desktop window"
+msgstr ""
+
+#: src/tilda.ui:480
+msgid "Start in fullscreen"
+msgstr ""
+
+#: src/tilda.ui:509
+msgid "Non-focus Pull Up Behaviour:"
+msgstr ""
+
+#: src/tilda.ui:560
+msgid "<b>Window Display</b>"
+msgstr "<b>Ablak beállítások</b>"
+
+#: src/tilda.ui:598
+msgid "Cursor Blinks"
+msgstr "Villogó kurzor"
+
+#: src/tilda.ui:612
+msgid "Audible Terminal Bell"
+msgstr "Hangos terminál csengő"
+
+#: src/tilda.ui:628
+msgid "Cursor Shape: "
+msgstr ""
+
+#: src/tilda.ui:663
+msgid "<b>Terminal Display</b>"
+msgstr "<b>Terminál beállítások</b>"
+
+#: src/tilda.ui:703
+msgid "Font:"
+msgstr "Betűkészlet:"
+
+#: src/tilda.ui:733
+msgid "<b>Font</b>"
+msgstr "<b>Betűkészlet</b>"
+
+#: src/tilda.ui:782
+msgid "Hide Tilda when mouse leaves it"
+msgstr ""
+
+#: src/tilda.ui:799
+msgid "Auto Hide Delay:"
+msgstr ""
+
+#: src/tilda.ui:809
+msgid "Hide when Tilda loses focus"
+msgstr ""
+
+#: src/tilda.ui:829
+#, fuzzy
+msgid "<b>Auto Hide</b>"
+msgstr "<b>Cím</b>"
+
+#: src/tilda.ui:868
+msgid "When last terminal is closed:"
+msgstr ""
+
+#: src/tilda.ui:895
+#, fuzzy
+msgid "Always prompt on exit"
+msgstr "Mindig felül"
+
+#: src/tilda.ui:918
+#, fuzzy
+msgid "<b>Program Exit</b>"
+msgstr "<b>Elhelyezés</b>"
+
+#: src/tilda.ui:936
+msgid ""
+"<small><i><b>Note:</b> Some options require that tilda is restarted.</i></"
+"small>"
+msgstr ""
+
+#: src/tilda.ui:953
+msgid "General"
+msgstr "Általános"
+
+#: src/tilda.ui:998
+msgid "Word Characters:"
+msgstr ""
+
+#: src/tilda.ui:1026
+msgid "<b>Select by Word</b>"
+msgstr ""
+
+#: src/tilda.ui:1076
+#, fuzzy
+msgid "Web Browser *:"
+msgstr "Webböngésző"
+
+#: src/tilda.ui:1093
+msgid "<b>URL Handling</b>"
+msgstr "<b>URL kezelés</b>"
+
+#: src/tilda.ui:1128
+msgid "Initial Title:"
+msgstr "Ablakcím induláskor:"
+
+#: src/tilda.ui:1150
+msgid "Title Max Length:"
+msgstr ""
+
+#: src/tilda.ui:1191
+msgid "Dynamically-set Title:"
+msgstr "Dinamikus ablakcím:"
+
+#: src/tilda.ui:1203
+msgid "Title Behaviour:"
+msgstr ""
+
+#: src/tilda.ui:1236
+msgid "<b>Title</b>"
+msgstr "<b>Cím</b>"
+
+#: src/tilda.ui:1297
+msgid "Run a custom command instead of the shell"
+msgstr "Héj helyett saját parancs futtatása"
+
+#: src/tilda.ui:1313
+msgid "Custom Command:"
+msgstr "Saját parancs:"
+
+#: src/tilda.ui:1325
+msgid "When Command Exits:"
+msgstr "Parancs befejeződésekor:"
+
+#: src/tilda.ui:1335
+msgid "Use a login shell"
+msgstr ""
+
+#: src/tilda.ui:1361
+msgid "<b>Command</b>"
+msgstr "<b>Parancs</b>"
+
+#: src/tilda.ui:1388
+msgid ""
+"* A valid command that can open a browser must be entered here. It is "
+"possible to use the name of a specific browser such as 'firefox' and 'google-"
+"chrome' or to use the generic commands 'x-www-browser' and 'xdg-open'. The "
+"best command may be different depending on the system."
+msgstr ""
+
+#: src/tilda.ui:1425
+msgid "Show confirmation dialog when closing tab"
+msgstr ""
+
+#: src/tilda.ui:1445
+#, fuzzy
+msgid "Close Action"
+msgstr "Fül _bezárása"
+
+#: src/tilda.ui:1466
+msgid "Title and Command"
+msgstr "Cím és parancs"
+
+#: src/tilda.ui:1510 src/tilda.ui:1688
+msgid "Percentage"
+msgstr "Százalék"
+
+#: src/tilda.ui:1534 src/tilda.ui:1700
+msgid "In Pixels"
+msgstr "Képpont"
+
+#: src/tilda.ui:1561
+msgid "<b>Height</b>"
+msgstr "<b>Magasság</b>"
+
+#: src/tilda.ui:1597
+msgid "Monitor:"
+msgstr ""
+
+#: src/tilda.ui:1652
+#, fuzzy
+msgid "<b>Select monitor</b>"
+msgstr "<b>Cím</b>"
+
+#: src/tilda.ui:1739
+msgid "<b>Width</b>"
+msgstr "<b>Szélesség</b>"
+
+#: src/tilda.ui:1775
+msgid "Centered Horizontally"
+msgstr "Vizszintesen középre"
+
+#: src/tilda.ui:1793
+msgid "Y Position"
+msgstr "Y pozíció"
+
+#: src/tilda.ui:1827
+msgid "X Position"
+msgstr "X pozíció"
+
+#: src/tilda.ui:1837
+msgid "Centered Vertically"
+msgstr "Függőlegesen középre"
+
+#: src/tilda.ui:1865
+msgid "<b>Position</b>"
+msgstr "<b>Elhelyezés</b>"
+
+#: src/tilda.ui:1903
+msgid "Position of Tabs:"
+msgstr "Fülek helye"
+
+#: src/tilda.ui:1930
+msgid "Expand Tabs"
+msgstr ""
+
+#: src/tilda.ui:1944
+msgid "Show single Tab"
+msgstr ""
+
+#: src/tilda.ui:1958
+msgid "Display Title in Tooltip"
+msgstr ""
+
+#: src/tilda.ui:1981
+#, fuzzy
+msgid "<b>Tabs</b>"
+msgstr "<b>Cím</b>"
+
+#: src/tilda.ui:2030
+msgid "Animation Delay (usec)"
+msgstr "Animáció késleltetése (usec)"
+
+#: src/tilda.ui:2042
+msgid "Animation Orientation"
+msgstr "Animáció iránya"
+
+#: src/tilda.ui:2080
+msgid "Animated Pulldown"
+msgstr "Animált lenyitás"
+
+#: src/tilda.ui:2096
+msgid "Level of Transparency"
+msgstr "Átlátszóság szintje:"
+
+#: src/tilda.ui:2106
+msgid "Enable Transparency"
+msgstr "Átlátszóság engedélyezése"
+
+#: src/tilda.ui:2129
+msgid "<b>Extras</b>"
+msgstr "<b>Extrák</b>"
+
+#: src/tilda.ui:2148
+msgid "Appearance"
+msgstr "Megjelenés"
+
+#: src/tilda.ui:2217
+#, fuzzy
+msgid "Cursor Color"
+msgstr "Villogó kurzor"
+
+#: src/tilda.ui:2265
+msgid "Text Color"
+msgstr "Szövegszín"
+
+#: src/tilda.ui:2277
+msgid "Background Color"
+msgstr "Háttérszín"
+
+#: src/tilda.ui:2289
+msgid "Built-in Schemes"
+msgstr "Beépített színsémák"
+
+#: src/tilda.ui:2303
+msgid "<b>Foreground and Background Colors</b>"
+msgstr "<b>Előtér és háttérszínek</b>"
+
+#: src/tilda.ui:2335
+msgid ""
+"<small><i><b>Note:</b> Terminal applications have these colors available to "
+"them.</i></small>"
+msgstr ""
+
+#: src/tilda.ui:2378
+msgid "Choose Color 14"
+msgstr ""
+
+#: src/tilda.ui:2391
+msgid "Choose Color 13"
+msgstr ""
+
+#: src/tilda.ui:2404
+msgid "Choose Color 15"
+msgstr ""
+
+#: src/tilda.ui:2417
+msgid "Choose Color 12"
+msgstr ""
+
+#: src/tilda.ui:2430
+msgid "Choose Color 10"
+msgstr ""
+
+#: src/tilda.ui:2443
+msgid "Choose Color 11"
+msgstr ""
+
+#: src/tilda.ui:2456
+msgid "Choose Color 9"
+msgstr ""
+
+#: src/tilda.ui:2469
+msgid "Choose Color 7"
+msgstr ""
+
+#: src/tilda.ui:2482
+msgid "Choose Color 6"
+msgstr ""
+
+#: src/tilda.ui:2495
+msgid "Choose Color 5"
+msgstr ""
+
+#: src/tilda.ui:2508
+msgid "Choose Color 4"
+msgstr ""
+
+#: src/tilda.ui:2521
+msgid "Choose Color 3"
+msgstr ""
+
+#: src/tilda.ui:2534
+msgid "Choose Color 2"
+msgstr ""
+
+#: src/tilda.ui:2547
+msgid "Choose Color 1"
+msgstr ""
+
+#: src/tilda.ui:2560
+msgid "Choose Color 0"
+msgstr ""
+
+#: src/tilda.ui:2574
+msgid "Choose Color 8"
+msgstr ""
+
+#: src/tilda.ui:2591
+#, fuzzy
+msgid "Built-in schemes:"
+msgstr "Beépített színsémák"
+
+#: src/tilda.ui:2606
+msgid "Color palette:"
+msgstr ""
+
+#: src/tilda.ui:2622
+#, fuzzy
+msgid "<b>Palette</b>"
+msgstr "<b>Cím</b>"
+
+#: src/tilda.ui:2641
+msgid "Colors"
+msgstr "Színek"
+
+#: src/tilda.ui:2698
+msgid "Scrollbar is:"
+msgstr "Görgetősáv helye:"
+
+#: src/tilda.ui:2707
+#, fuzzy
+msgid "Limit scrollback to:"
+msgstr "Visszagörgethető sorok száma"
+
+#: src/tilda.ui:2711
+msgid "Unselect for unlimited scrollback."
+msgstr ""
+
+#: src/tilda.ui:2723
+msgid "Scroll on Output"
+msgstr "Görgetés kiíráskor"
+
+#: src/tilda.ui:2737
+msgid "Scroll on Keystroke"
+msgstr "Görgetés billentyű leütésre"
+
+#: src/tilda.ui:2759
+msgid "0"
+msgstr ""
+
+#: src/tilda.ui:2771
+msgid "lines"
+msgstr "sor"
+
+#: src/tilda.ui:2797
+msgid "<b>Scrolling</b>"
+msgstr "<b>Görgetés</b>"
+
+#: src/tilda.ui:2818
+msgid "Scrolling"
+msgstr "Görgetés"
+
+#: src/tilda.ui:2857
+msgid ""
+"<small><i><b>Note:</b> These options may cause some applications to behave "
+"incorrectly.  They are only here to allow you to work around certain "
+"applications and operating systems that expect different terminal behavior.</"
+"i></small>"
+msgstr ""
+"<small><i><b>Megjegyzés:</b> Ezek az opciók néhány program helytelen "
+"működését eredményezhetik. Csak azért vannak itt, hogy biztosítsák a "
+"terminál bizonyos programokkal és operációs rendszerekkel való "
+"együttműködését, amelyek más igényeket támasztanak a terminállal szemben.</"
+"i></small>"
+
+#: src/tilda.ui:2873
+msgid "_Backspace key generates:"
+msgstr "A _Backspace billentyű által küldött kód:"
+
+#: src/tilda.ui:2887
+msgid "_Delete key generates:"
+msgstr "A _Delete billentyű által küldött kód:"
+
+#: src/tilda.ui:2899
+msgid "_Reset Compatibility Options to Defaults"
+msgstr "_Kompatibilitási beállítások alapértelmezettre állítása"
+
+#: src/tilda.ui:2953
+msgid "<b>Compatibility</b>"
+msgstr "<b>Kompatibilitás</b>"
+
+#: src/tilda.ui:2972
+msgid "Compatibility"
+msgstr "Kompatibilitás"
+
+#: src/tilda.ui:3024
+#, fuzzy
+msgid "<b>Keybindings</b>"
+msgstr "Gyorsbillentyű"
+
+#: src/tilda.ui:3043
+msgid "Keybindings"
+msgstr "Gyorsbillentyű"
+
+#: src/configsys.c:384
+msgid "Unable to sync the config file to disk\n"
+msgstr "Nem tudom elvégezni a konfigfájl szinkronizálását.\n"
+
+#: src/configsys.c:394
+msgid "Unable to close the config file\n"
+msgstr "Nem tudom bezárni a konfigfájlt.\n"
+
+#: src/configsys.c:407
+#, c-format
+msgid "Unable to write the config file to %s\n"
+msgstr "Nem tudom írni a konfigfájlt: %s\n"
+
+#: src/tilda.c:239
+#, c-format
+msgid "Unable to run command: `%s'\n"
+msgstr "A '%s' parancs futtatása nem sikerült\n"
+
+#: src/tilda.c:284 src/tilda.c:459
+#, c-format
+msgid "Unable to open lock directory: %s\n"
+msgstr "Nem tudom megnyitni a zárolási könyvtárat :%s\n"
+
+#: src/tilda.c:396
+#, c-format
+msgid "Creating directory:'%s'\n"
+msgstr ""
+
+#: src/tilda.c:555
+msgid ""
+"Found style.css in the user config directory, applying user css style.\n"
+msgstr ""
+
+#: src/tilda.c:610
+msgid "Migrating old config path to XDG folders\n"
+msgstr ""
+
+#: src/tilda.c:673
+#, c-format
+msgid "Specified config file '%s' does not exist. Reverting to default path.\n"
+msgstr ""
+
+#: src/tilda.c:766 src/tilda-keybinding.c:409
+#, fuzzy
+msgid ""
+"The keybinding you chose for \"Pull Down Terminal\" is invalid. Please "
+"choose another."
+msgstr "A választott gyorsbillentyű érvénytelen. Válasszon másikat."
+
+#: src/tilda-keybinding.c:115
+#, fuzzy
+msgid "Action"
+msgstr "Fül _bezárása"
+
+#: src/tilda-keybinding.c:121
+msgid "Shortcut"
+msgstr ""
+
+#: src/tilda-keybinding.c:306
+msgid "Enter keyboard shortcut"
+msgstr ""
+
+#: src/tilda-keybinding.c:417
+#, fuzzy, c-format
+msgid "The keybinding you chose for \"%s\" is invalid. Please choose another."
+msgstr "A választott gyorsbillentyű érvénytelen. Válasszon másikat."
+
+#: src/tilda_terminal.c:398
+#, fuzzy, c-format
+msgid "Problem reading link %s: %s\n"
+msgstr "Parancs értelmezési hiba: %s\n"
+
+#: src/tilda_terminal.c:421
+#, c-format
+msgid "Unable to launch default shell: %s\n"
+msgstr "Nem tudom elindítani az alapértelmezett héjat: %s\n"
+
+#: src/tilda_terminal.c:423
+#, c-format
+msgid "Unable to launch custom command: %s\n"
+msgstr "Nem tudom elindítani a megadott felhasználói parancsot: %s\n"
+
+#: src/tilda_terminal.c:424
+#, fuzzy, c-format
+msgid "Launching custom command failed with error: %s\n"
+msgstr "Héj helyett saját parancs futtatása"
+
+#: src/tilda_terminal.c:425 src/tilda_terminal.c:459
+msgid "Launching default shell instead\n"
+msgstr "Helyette indítom az alapértelmezett héjat.\n"
+
+#: src/tilda_terminal.c:458
+#, c-format
+msgid "Problem parsing custom command: %s\n"
+msgstr "Parancs értelmezési hiba: %s\n"
+
+#: src/tilda_terminal.c:976
+#, c-format
+msgid "Failed to launch the web browser. The command was `%s'\n"
+msgstr "Nem tudtam elindítani a böngészőt, parancs: %s\n"
+
+#: src/tilda_terminal.c:1026
+msgid "Untitled"
+msgstr "Névtelen"
+
+#: src/tilda_terminal.c:1044
+msgid "Bad value for \"d_set_title\" in config file\n"
+msgstr "Hibás érték a konfigfájlban itt: \"d_set_title\"\n"
+
+#: src/tilda_window.c:109
+msgid "Are you sure you want to close this tab?"
+msgstr ""
+
+#: src/tilda_window.c:156
+msgid "You have a bad tab_pos in your configuration file\n"
+msgstr "A konfigfájlban hibás a fülek pozíciója\n"
+
+#: src/tilda_window.c:811
+#, c-format
+msgid "Unable to set tilda's icon: %s\n"
+msgstr "Nem tudom a tilda ikonját beállítani: %s\n"
+
+#: src/tilda_window.c:1105
+msgid "Out of memory, cannot create tab\n"
+msgstr "Elfogyott a memória. a fül nem hozható létre\n"
+
+#: src/tilda_window.c:1225
+msgid "Are you sure you want to Quit?"
+msgstr ""
+
+#: src/wizard.c:138
+#, fuzzy, c-format
+msgid "Tilda %d Config"
+msgstr "Tilda Beállítás"
+
+#: src/wizard.c:561
+msgid "Invalid Cursor Type, resetting to default\n"
+msgstr ""
+
+#: src/wizard.c:579
+msgid "Invalid non-focus pull up behaviour, ignoring\n"
+msgstr ""
+
+#: src/wizard.c:1046
+msgid "Invalid tab position setting, ignoring\n"
+msgstr "Érvénytelen fülpozíció, figyelmen kívül lesz hagyva\n"
+
+#~ msgid "Allow Bold Text"
+#~ msgstr "Félkövér szöveg engedélyezése"
+
+#~ msgid "Set the background color"
+#~ msgstr "Háttérszín beállítása"
+
+#~ msgid "Run a command at startup"
+#~ msgstr "Parancs futtatása induláskor"
+
+#~ msgid "Set the font to the following string"
+#~ msgstr "Betűkészlet beállítása erre a karakterláncra"
+
+#, fuzzy
+#~ msgid "Configuration file"
+#~ msgstr "Indítás konfigurációs ablakkal"
+
+#~ msgid "Scrollback Lines"
+#~ msgstr "Visszagördíthető sorok száma"
+
+#~ msgid "Use Scrollbar"
+#~ msgstr "Görgetősáv használata"
+
+#~ msgid "Print the version, then exit"
+#~ msgstr "Verzió kiírása és kilépés"
+
+#~ msgid "Set Initial Working Directory"
+#~ msgstr "Kezdő munkakönyvtár beállítása"
+
+#~ msgid "Opaqueness: 0-100%"
+#~ msgstr "Átlátszóság: 0-100%"
+
+#~ msgid "Show Configuration Wizard"
+#~ msgstr "Indítás konfigurációs ablakkal"
+
+#~ msgid ""
+#~ "Error parsing command-line options. Try \"tilda --help\"\n"
+#~ "to see all possible options.\n"
+#~ "\n"
+#~ "Error message: %s\n"
+#~ msgstr ""
+#~ "Hiba a megadott opciókban. Próbáld a \"tilda --help\"-et.\n"
+#~ "\n"
+#~ "Hiba: %s\n"
+
+#, fuzzy
+#~ msgid ""
+#~ "Error parsing Glib and GTK specific command-line options. Try \"tilda --"
+#~ "help-all\"\n"
+#~ "to see all possible options.\n"
+#~ "\n"
+#~ "Error message: %s\n"
+#~ msgstr ""
+#~ "Hiba a megadott opciókban. Próbáld a \"tilda --help\"-et.\n"
+#~ "\n"
+#~ "Hiba: %s\n"
+
+#~ msgid "Enable Antialiasing"
+#~ msgstr "Élsimítás bekapcsolása"
+
+#~ msgid "Use Image for Background"
+#~ msgstr "Kép használata háttérként"
+
+#~ msgid "Scroll Background"
+#~ msgstr "Háttér görgetése"
+
+#~ msgid "Use Antialiased Fonts"
+#~ msgstr "Élsimított betűkészletek használata"
+
+#~ msgid "Set Background Image"
+#~ msgstr "Háttérkép beállítása"
+
+#~ msgid "Enable Double Buffering"
+#~ msgstr "Dupla gyorstár engedélyezése"
+
+#~ msgid "    "
+#~ msgstr "    "
+
+#, fuzzy
+#~ msgid "<b>Paste</b>"
+#~ msgstr "<b>Cím</b>"
+
+#, fuzzy
+#~ msgid "<b>Quit</b>"
+#~ msgstr "<b>Cím</b>"
+
+#, fuzzy
+#~ msgid "<b>Close Tab</b>"
+#~ msgstr "Fül _bezárása"
+
+#, fuzzy
+#~ msgid "<b>Copy</b>"
+#~ msgstr "<b>Betűkészlet</b>"
+
+#, fuzzy
+#~ msgid "<b>Pull Down Terminal</b>"
+#~ msgstr "<b>Terminálnyitó gyorsbillentyű</b>"
+
+#, fuzzy
+#~ msgid "<b>Move Tab Left</b>"
+#~ msgstr "Fül _bezárása"
+
+#, fuzzy
+#~ msgid "<b>Move Tab Right</b>"
+#~ msgstr "<b>Magasság</b>"
+
+#, fuzzy
+#~ msgid "Problem when opening config file\n"
+#~ msgstr "Hiba a konfigfájlban.\n"
+
+#, fuzzy
+#~ msgid ""
+#~ "The keybinding you chose for \"Add Tab\" is invalid. Please choose "
+#~ "another."
+#~ msgstr "A választott gyorsbillentyű érvénytelen. Válasszon másikat."
+
+#, fuzzy
+#~ msgid ""
+#~ "The keybinding you chose for \"Close Tab\" is invalid. Please choose "
+#~ "another."
+#~ msgstr "A választott gyorsbillentyű érvénytelen. Válasszon másikat."
+
+#, fuzzy
+#~ msgid ""
+#~ "The keybinding you chose for \"Next Tab\" is invalid. Please choose "
+#~ "another."
+#~ msgstr "A választott gyorsbillentyű érvénytelen. Válasszon másikat."
+
+#, fuzzy
+#~ msgid ""
+#~ "The keybinding you chose for \"Previous Tab\" is invalid. Please choose "
+#~ "another."
+#~ msgstr "A választott gyorsbillentyű érvénytelen. Válasszon másikat."
+
+#, fuzzy
+#~ msgid ""
+#~ "The keybinding you chose for \"Move Tab to Left\" is invalid. Please "
+#~ "choose another."
+#~ msgstr "A választott gyorsbillentyű érvénytelen. Válasszon másikat."
+
+#, fuzzy
+#~ msgid ""
+#~ "The keybinding you chose for \"Move Tab to Right\" is invalid. Please "
+#~ "choose another."
+#~ msgstr "A választott gyorsbillentyű érvénytelen. Válasszon másikat."
+
+#, fuzzy
+#~ msgid ""
+#~ "The keybinding you chose for \"Copy\" is invalid. Please choose another."
+#~ msgstr "A választott gyorsbillentyű érvénytelen. Válasszon másikat."
+
+#, fuzzy
+#~ msgid ""
+#~ "The keybinding you chose for \"Quit\" is invalid. Please choose another."
+#~ msgstr "A választott gyorsbillentyű érvénytelen. Válasszon másikat."
+
+#, fuzzy
+#~ msgid ""
+#~ "The keybinding you chose for \"Go To Tab 1\" is invalid. Please choose "
+#~ "another."
+#~ msgstr "A választott gyorsbillentyű érvénytelen. Válasszon másikat."
+
+#, fuzzy
+#~ msgid ""
+#~ "The keybinding you chose for \"Go To Tab 2\" is invalid. Please choose "
+#~ "another."
+#~ msgstr "A választott gyorsbillentyű érvénytelen. Válasszon másikat."
+
+#, fuzzy
+#~ msgid ""
+#~ "The keybinding you chose for \"Go To Tab 3\" is invalid. Please choose "
+#~ "another."
+#~ msgstr "A választott gyorsbillentyű érvénytelen. Válasszon másikat."
+
+#, fuzzy
+#~ msgid ""
+#~ "The keybinding you chose for \"Go To Tab 4\" is invalid. Please choose "
+#~ "another."
+#~ msgstr "A választott gyorsbillentyű érvénytelen. Válasszon másikat."
+
+#, fuzzy
+#~ msgid ""
+#~ "The keybinding you chose for \"Go To Tab 5\" is invalid. Please choose "
+#~ "another."
+#~ msgstr "A választott gyorsbillentyű érvénytelen. Válasszon másikat."
+
+#, fuzzy
+#~ msgid ""
+#~ "The keybinding you chose for \"Go To Tab 6\" is invalid. Please choose "
+#~ "another."
+#~ msgstr "A választott gyorsbillentyű érvénytelen. Válasszon másikat."
+
+#, fuzzy
+#~ msgid ""
+#~ "The keybinding you chose for \"Go To Tab 7\" is invalid. Please choose "
+#~ "another."
+#~ msgstr "A választott gyorsbillentyű érvénytelen. Válasszon másikat."
+
+#, fuzzy
+#~ msgid ""
+#~ "The keybinding you chose for \"Go To Tab 8\" is invalid. Please choose "
+#~ "another."
+#~ msgstr "A választott gyorsbillentyű érvénytelen. Válasszon másikat."
+
+#, fuzzy
+#~ msgid ""
+#~ "The keybinding you chose for \"Go To Tab 9\" is invalid. Please choose "
+#~ "another."
+#~ msgstr "A választott gyorsbillentyű érvénytelen. Válasszon másikat."
+
+#, fuzzy
+#~ msgid ""
+#~ "The keybinding you chose for \"Go To Tab 10\" is invalid. Please choose "
+#~ "another."
+#~ msgstr "A választott gyorsbillentyű érvénytelen. Válasszon másikat."
+
+#, fuzzy
+#~ msgid ""
+#~ "The keybinding you chose for \"Toggle Fullscreen\" is invalid. Please "
+#~ "choose another."
+#~ msgstr "A választott gyorsbillentyű érvénytelen. Válasszon másikat."
+
+#, fuzzy
+#~ msgid "Problem while parsing config file\n"
+#~ msgstr "Hiba a konfigfájlban.\n"
+
+#~ msgid ""
+#~ "Top\n"
+#~ "Bottom\n"
+#~ "Left\n"
+#~ "Right"
+#~ msgstr ""
+#~ "Fent\n"
+#~ "Lent\n"
+#~ "Balra\n"
+#~ "Jobbra"
+
+#~ msgid ""
+#~ "Isn't displayed\n"
+#~ "Goes after initial title\n"
+#~ "Goes before initial title\n"
+#~ "Replace initial title"
+#~ msgstr ""
+#~ "Nincs\n"
+#~ "Az indulási cím után\n"
+#~ "Az indulási cím előtt\n"
+#~ "Az indulási cím cseréje"
+
+#~ msgid ""
+#~ "Hold the terminal open\n"
+#~ "Restart the command\n"
+#~ "Exit the terminal"
+#~ msgstr ""
+#~ "A terminál maradjon megnyitva\n"
+#~ "Induljon újra a parancs\n"
+#~ "Kilépés a terminálból"
+
+#~ msgid ""
+#~ "Custom\n"
+#~ "Green on Black\n"
+#~ "Black on White\n"
+#~ "White on Black"
+#~ msgstr ""
+#~ "Saját beállítás\n"
+#~ "Zöld a feketén\n"
+#~ "Fekete a fehéren\n"
+#~ "Fehér a Feketén"
+
+#~ msgid ""
+#~ "On the Left\n"
+#~ "On the Right\n"
+#~ "Disabled"
+#~ msgstr ""
+#~ "Balra\n"
+#~ "Jobbra\n"
+#~ "Letiltva"
+
+#~ msgid "Key Binding"
+#~ msgstr "Gyorsbillentyű"
+
+#~ msgid "Grab Keybinding"
+#~ msgstr "Gyorsbillentyű megadása"
