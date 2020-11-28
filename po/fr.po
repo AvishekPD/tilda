@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tilda\n"
 "Report-Msgid-Bugs-To: sloutri@iit.edu\n"
-"POT-Creation-Date: 2020-02-08 23:45+0100\n"
+"POT-Creation-Date: 2020-11-28 19:31+0530\n"
 "PO-Revision-Date: 2008-03-10 22:11+0000\n"
 "Last-Translator: François Boulogne <Unknown>\n"
 "Language-Team: French <fr@li.org>\n"
@@ -34,20 +34,24 @@ msgstr ""
 msgid "_Paste"
 msgstr ""
 
-#: src/menu.ui:26
+#: src/menu.ui:24
+msgid "_Copy Link"
+msgstr ""
+
+#: src/menu.ui:30
 #, fuzzy
 msgid "_Toggle Fullscreen"
 msgstr "Passer en mode plein écran"
 
-#: src/menu.ui:30
+#: src/menu.ui:34
 msgid "_Toggle Searchbar"
 msgstr ""
 
-#: src/menu.ui:36
+#: src/menu.ui:40
 msgid "_Preferences"
 msgstr ""
 
-#: src/menu.ui:42
+#: src/menu.ui:46
 msgid "_Quit"
 msgstr ""
 
@@ -697,21 +701,21 @@ msgstr ""
 msgid "Creating directory:'%s'\n"
 msgstr ""
 
-#: src/tilda.c:555
+#: src/tilda.c:534
 msgid ""
 "Found style.css in the user config directory, applying user css style.\n"
 msgstr ""
 
-#: src/tilda.c:610
+#: src/tilda.c:589
 msgid "Migrating old config path to XDG folders\n"
 msgstr ""
 
-#: src/tilda.c:673
+#: src/tilda.c:652
 #, c-format
 msgid "Specified config file '%s' does not exist. Reverting to default path.\n"
 msgstr ""
 
-#: src/tilda.c:766 src/tilda-keybinding.c:409
+#: src/tilda.c:744 src/tilda-keybinding.c:409
 #, fuzzy
 msgid ""
 "The keybinding you chose for \"Pull Down Terminal\" is invalid. Please "
@@ -740,45 +744,45 @@ msgstr ""
 "Le raccourcis clavier que vous avez choisi est invalide. S'il-vous-plaît, "
 "choisissez en un autre."
 
-#: src/tilda_terminal.c:398
+#: src/tilda_terminal.c:396
 #, c-format
 msgid "Problem reading link %s: %s\n"
 msgstr ""
 
-#: src/tilda_terminal.c:421
+#: src/tilda_terminal.c:419
 #, c-format
 msgid "Unable to launch default shell: %s\n"
 msgstr ""
 
-#: src/tilda_terminal.c:423
+#: src/tilda_terminal.c:421
 #, c-format
 msgid "Unable to launch custom command: %s\n"
 msgstr "Impossible de lancer la commande personnalisée : %s\n"
 
-#: src/tilda_terminal.c:424
+#: src/tilda_terminal.c:422
 #, fuzzy, c-format
 msgid "Launching custom command failed with error: %s\n"
 msgstr "Exécuter une commande personnalisée au lieu du terminal"
 
-#: src/tilda_terminal.c:425 src/tilda_terminal.c:459
+#: src/tilda_terminal.c:423 src/tilda_terminal.c:457
 msgid "Launching default shell instead\n"
 msgstr ""
 
-#: src/tilda_terminal.c:458
+#: src/tilda_terminal.c:456
 #, c-format
 msgid "Problem parsing custom command: %s\n"
 msgstr ""
 
-#: src/tilda_terminal.c:976
+#: src/tilda_terminal.c:819
 #, c-format
 msgid "Failed to launch the web browser. The command was `%s'\n"
 msgstr "Echec du lancement du navigateur web. La commande était `%s'\n"
 
-#: src/tilda_terminal.c:1026
+#: src/tilda_terminal.c:869
 msgid "Untitled"
 msgstr "Sans nom"
 
-#: src/tilda_terminal.c:1044
+#: src/tilda_terminal.c:887
 msgid "Bad value for \"d_set_title\" in config file\n"
 msgstr ""
 "Mauvaise valeur pour \"d_set_title\" dans le fichier de configuration\n"
@@ -798,11 +802,11 @@ msgstr ""
 msgid "Unable to set tilda's icon: %s\n"
 msgstr "Ne peut pas paramétrer l'icône de tilda : %s\n"
 
-#: src/tilda_window.c:1105
+#: src/tilda_window.c:1135
 msgid "Out of memory, cannot create tab\n"
 msgstr "Plus de mémoire, ne peut pas créer l'onglet\n"
 
-#: src/tilda_window.c:1225
+#: src/tilda_window.c:1255
 msgid "Are you sure you want to Quit?"
 msgstr ""
 

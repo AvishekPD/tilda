@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tilda\n"
 "Report-Msgid-Bugs-To: sloutri@iit.edu\n"
-"POT-Creation-Date: 2020-02-08 23:45+0100\n"
+"POT-Creation-Date: 2020-11-28 19:31+0530\n"
 "PO-Revision-Date: 2020-10-12 12:42+0700\n"
 "Last-Translator: Anton Shestakov <Unknown>\n"
 "Language-Team: Russian <ru@li.org>\n"
@@ -34,19 +34,24 @@ msgstr "_Копировать"
 msgid "_Paste"
 msgstr "_Вставить"
 
-#: src/menu.ui:26
+#: src/menu.ui:24
+#, fuzzy
+msgid "_Copy Link"
+msgstr "_Копировать"
+
+#: src/menu.ui:30
 msgid "_Toggle Fullscreen"
 msgstr "_На полный экран"
 
-#: src/menu.ui:30
+#: src/menu.ui:34
 msgid "_Toggle Searchbar"
 msgstr "_Панель поиска"
 
-#: src/menu.ui:36
+#: src/menu.ui:40
 msgid "_Preferences"
 msgstr "_Настройки"
 
-#: src/menu.ui:42
+#: src/menu.ui:46
 msgid "_Quit"
 msgstr "_выйти"
 
@@ -686,23 +691,23 @@ msgstr "Невозможно открыть директорию lock: %s\n"
 msgid "Creating directory:'%s'\n"
 msgstr "Создание каталога: '% s' \n"
 
-#: src/tilda.c:555
+#: src/tilda.c:534
 msgid ""
 "Found style.css in the user config directory, applying user css style.\n"
 msgstr "style.css в каталоге конфигурации пользователя\n"
 
-#: src/tilda.c:610
+#: src/tilda.c:589
 msgid "Migrating old config path to XDG folders\n"
 msgstr "Перенос старого пути конфигурации в папки XDG\n"
 
-#: src/tilda.c:673
+#: src/tilda.c:652
 #, c-format
 msgid "Specified config file '%s' does not exist. Reverting to default path.\n"
 msgstr ""
 "Указанный файл конфигурации \"% s\" не существует. Возврат к пути по "
 "умолчанию.\n"
 
-#: src/tilda.c:766 src/tilda-keybinding.c:409
+#: src/tilda.c:744 src/tilda-keybinding.c:409
 #, fuzzy
 msgid ""
 "The keybinding you chose for \"Pull Down Terminal\" is invalid. Please "
@@ -726,45 +731,45 @@ msgstr "Введите сочетание"
 msgid "The keybinding you chose for \"%s\" is invalid. Please choose another."
 msgstr "Комбинация клавиш, которую вы выбрали, неверная. Выберите другую."
 
-#: src/tilda_terminal.c:398
+#: src/tilda_terminal.c:396
 #, fuzzy, c-format
 msgid "Problem reading link %s: %s\n"
 msgstr "Возникла проблема при обработке пользовательской команды: %s\n"
 
-#: src/tilda_terminal.c:421
+#: src/tilda_terminal.c:419
 #, c-format
 msgid "Unable to launch default shell: %s\n"
 msgstr "Не удалось запустить оболочку по умолчанию: %s\n"
 
-#: src/tilda_terminal.c:423
+#: src/tilda_terminal.c:421
 #, c-format
 msgid "Unable to launch custom command: %s\n"
 msgstr "Не удалось запустить пользовательскую команду: %s\n"
 
-#: src/tilda_terminal.c:424
+#: src/tilda_terminal.c:422
 #, fuzzy, c-format
 msgid "Launching custom command failed with error: %s\n"
 msgstr "Запускать пользовательскую команду вместо shell"
 
-#: src/tilda_terminal.c:425 src/tilda_terminal.c:459
+#: src/tilda_terminal.c:423 src/tilda_terminal.c:457
 msgid "Launching default shell instead\n"
 msgstr "Запуск оболочки по умолчанию вместо\n"
 
-#: src/tilda_terminal.c:458
+#: src/tilda_terminal.c:456
 #, c-format
 msgid "Problem parsing custom command: %s\n"
 msgstr "Возникла проблема при обработке пользовательской команды: %s\n"
 
-#: src/tilda_terminal.c:976
+#: src/tilda_terminal.c:819
 #, c-format
 msgid "Failed to launch the web browser. The command was `%s'\n"
 msgstr "Ошибка при запуске веб-браузера командой «%s»\n"
 
-#: src/tilda_terminal.c:1026
+#: src/tilda_terminal.c:869
 msgid "Untitled"
 msgstr "Безымянный"
 
-#: src/tilda_terminal.c:1044
+#: src/tilda_terminal.c:887
 msgid "Bad value for \"d_set_title\" in config file\n"
 msgstr "Неправильное значение параметра \"d_set_title\" в файле конфигурации\n"
 
@@ -781,11 +786,11 @@ msgstr "Неправильный параметр tab_pos в файле конф
 msgid "Unable to set tilda's icon: %s\n"
 msgstr "Не удалось установить иконку tilda: %s\n"
 
-#: src/tilda_window.c:1105
+#: src/tilda_window.c:1135
 msgid "Out of memory, cannot create tab\n"
 msgstr "Не удалось создать вкладку: память исчерпана\n"
 
-#: src/tilda_window.c:1225
+#: src/tilda_window.c:1255
 msgid "Are you sure you want to Quit?"
 msgstr "Вы уверены, что хотите выйти?"
 

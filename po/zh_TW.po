@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tilda\n"
 "Report-Msgid-Bugs-To: sloutri@iit.edu\n"
-"POT-Creation-Date: 2020-02-08 23:45+0100\n"
+"POT-Creation-Date: 2020-11-28 19:31+0530\n"
 "PO-Revision-Date: 2017-07-18 00:31+0800\n"
 "Last-Translator: Kuang-Lin Pan <andypan@ntuosc.org>\n"
 "Language-Team: Chinese (Traditional) <zh_TW@li.org>\n"
@@ -35,19 +35,23 @@ msgstr ""
 msgid "_Paste"
 msgstr ""
 
-#: src/menu.ui:26
-msgid "_Toggle Fullscreen"
+#: src/menu.ui:24
+msgid "_Copy Link"
 msgstr ""
 
 #: src/menu.ui:30
+msgid "_Toggle Fullscreen"
+msgstr ""
+
+#: src/menu.ui:34
 msgid "_Toggle Searchbar"
 msgstr ""
 
-#: src/menu.ui:36
+#: src/menu.ui:40
 msgid "_Preferences"
 msgstr ""
 
-#: src/menu.ui:42
+#: src/menu.ui:46
 msgid "_Quit"
 msgstr ""
 
@@ -685,21 +689,21 @@ msgstr "無法開啟鎖定的目錄：%s\n"
 msgid "Creating directory:'%s'\n"
 msgstr "建立目錄：'%s'\n"
 
-#: src/tilda.c:555
+#: src/tilda.c:534
 msgid ""
 "Found style.css in the user config directory, applying user css style.\n"
 msgstr "在使用者的設定目錄中發現 style.css，套用使用者樣式中。\n"
 
-#: src/tilda.c:610
+#: src/tilda.c:589
 msgid "Migrating old config path to XDG folders\n"
 msgstr "正在將舊的設定檔搬移至 XDG 目錄\n"
 
-#: src/tilda.c:673
+#: src/tilda.c:652
 #, c-format
 msgid "Specified config file '%s' does not exist. Reverting to default path.\n"
 msgstr "指定的設定檔 '%s' 不存在。改採用預設的路徑。\n"
 
-#: src/tilda.c:766 src/tilda-keybinding.c:409
+#: src/tilda.c:744 src/tilda-keybinding.c:409
 msgid ""
 "The keybinding you chose for \"Pull Down Terminal\" is invalid. Please "
 "choose another."
@@ -723,45 +727,45 @@ msgstr ""
 msgid "The keybinding you chose for \"%s\" is invalid. Please choose another."
 msgstr "你選擇的「拉下終端機」快捷鍵無效。請選擇別的。"
 
-#: src/tilda_terminal.c:398
+#: src/tilda_terminal.c:396
 #, c-format
 msgid "Problem reading link %s: %s\n"
 msgstr "跟隨符號連結 %s 失敗：%s\n"
 
-#: src/tilda_terminal.c:421
+#: src/tilda_terminal.c:419
 #, c-format
 msgid "Unable to launch default shell: %s\n"
 msgstr "無法啟動預設的命令解釋器：%s\n"
 
-#: src/tilda_terminal.c:423
+#: src/tilda_terminal.c:421
 #, c-format
 msgid "Unable to launch custom command: %s\n"
 msgstr "無法啟動自訂指令：%s\n"
 
-#: src/tilda_terminal.c:424
+#: src/tilda_terminal.c:422
 #, fuzzy, c-format
 msgid "Launching custom command failed with error: %s\n"
 msgstr "執行自訂的指令而不是執行命令解釋器"
 
-#: src/tilda_terminal.c:425 src/tilda_terminal.c:459
+#: src/tilda_terminal.c:423 src/tilda_terminal.c:457
 msgid "Launching default shell instead\n"
 msgstr "作為替代，啟動預設的命令解釋器\n"
 
-#: src/tilda_terminal.c:458
+#: src/tilda_terminal.c:456
 #, c-format
 msgid "Problem parsing custom command: %s\n"
 msgstr "解析自訂指令失敗：%s\n"
 
-#: src/tilda_terminal.c:976
+#: src/tilda_terminal.c:819
 #, c-format
 msgid "Failed to launch the web browser. The command was `%s'\n"
 msgstr "無法啟動網頁瀏覽器。用到的指令是 `%s'\n"
 
-#: src/tilda_terminal.c:1026
+#: src/tilda_terminal.c:869
 msgid "Untitled"
 msgstr "無標題"
 
-#: src/tilda_terminal.c:1044
+#: src/tilda_terminal.c:887
 msgid "Bad value for \"d_set_title\" in config file\n"
 msgstr "設定檔裡 \"d_set_title\" 的值不正確\n"
 
@@ -778,11 +782,11 @@ msgstr "設定檔裡有個錯的定位點\n"
 msgid "Unable to set tilda's icon: %s\n"
 msgstr "無法設定 Tilda 的圖示為：%s\n"
 
-#: src/tilda_window.c:1105
+#: src/tilda_window.c:1135
 msgid "Out of memory, cannot create tab\n"
 msgstr "記憶體不足。無法建立分頁\n"
 
-#: src/tilda_window.c:1225
+#: src/tilda_window.c:1255
 msgid "Are you sure you want to Quit?"
 msgstr ""
 
